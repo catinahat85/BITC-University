@@ -3,6 +3,10 @@
 **Est. Cost:** $337  
 **Time to Complete:** ~9 Months
 
+* **Target Degree:** **B.A. in Liberal Arts, Specialization in Business Administration**
+* **Why:** DevOps is about "Operations." The Strategic IT and Ops Management courses in this track align directly with the Business Administration competency model.
+
+
 ## Specialty Core (30 Credits)
 *Strategy: Validate on Azure (Enterprise) and Google (Startup/Tech).*
 
