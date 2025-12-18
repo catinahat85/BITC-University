@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/projectmgmt.png" alt="AI Engineering Track Logo" width="250">
+</div>
+
+
 # Track: Project Management
 **Focus:** Agile, Scrum, Product Leadership  
 **Est. Cost:** $192  
