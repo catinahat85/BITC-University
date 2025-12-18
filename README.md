@@ -25,7 +25,6 @@ Traditional college demands $40,000+ and 4 years for a degree that doesn't guara
 3.  **Finish Fast:** A high-density, 9-month curriculum that respects your time.
 4.  **Skip the associate degree and general education filler by earning credentials that make you hirable now and slot you directly into Newlane’s bachelor programs.
 
-
 **Stop overpaying for a seat in a classroom. Start building your career.**
 
 <div align="center">
