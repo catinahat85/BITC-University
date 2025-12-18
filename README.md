@@ -1,4 +1,4 @@
-# BITC University
+# BitC University
 ## Goal & Mission Statement
 
 ### The Problem
