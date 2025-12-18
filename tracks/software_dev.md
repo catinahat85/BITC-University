@@ -3,6 +3,10 @@
 **Est. Cost:** $265  
 **Time to Complete:** ~9 Months
 
+* **Target Degree:** **B.A. in Liberal Arts**
+* **Why:** Like the AI track, this is a pure technical play. The high volume of coding credits (28 credits from Coursera) fits best in the flexible General Liberal Arts program, avoiding the need for "Business Core" credits that would slow you down.
+
+
 ## Specialty Core (30 Credits)
 *Strategy: 28 Credits from Coursera alone. High velocity track.*
 
