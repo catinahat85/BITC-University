@@ -75,7 +75,7 @@ This repository contains 7 distinct "tracks" designed to maximize transfer credi
 
 ## Why These Tracks? (The Newlane Strategy)
 
-The BITC University tracks are not random collections of courses. They are precision-engineered to exploit **Newlane University’s Transfer Credit & CPL Policy**. This is how we achieve a Bachelor's degree for under $500.
+The BITC University tracks are not random collections of courses. They are precision-engineered to maximize **Newlane University’s Transfer Credit & CPL Policy**. This is how we achieve a Bachelor's degree for under $2000.
 
 ### 1. The 75% Rule (The "Heavy Lifting")
 Newlane allows you to transfer up to **75% of your total degree credits**. 
