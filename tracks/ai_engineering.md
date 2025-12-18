@@ -3,6 +3,9 @@
 **Est. Cost:** $315  
 **Time to Complete:** ~9 Months
 
+* **Target Degree:** **B.A. in Liberal Arts**
+* **Why:** This track is heavy on Math (Calculus/Stats) and deep technical Engineering. The General Liberal Arts degree provides the widest "bucket" to accept these hard-science credits without forcing unrelated business courses.
+
 ## Specialty Core (30 Credits)
 *Strategy: Heavy math focus + IBM's engineering certificate.*
 
