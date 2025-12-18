@@ -69,7 +69,7 @@ Newlane allows you to transfer up to **75% of your total degree credits**. BITC 
 Newlane’s **Credit for Prior Learning (CPL)** policy specifically recognizes industry-recognized certifications. We use certifications from **Google, IBM, Microsoft, and Cisco**. Because these providers carry ACE recommendations, Newlane can evaluate them for direct credit toward your major.
 
 ### 3. The Major Credit Limit (The 25% Guardrail)
-Newlane policy states that up to **25% of required major credits** can be transferred. We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM). This leaves the "Upper Division" specialty work for you to complete within Newlane's platform. Get hireable skills and credentials before you complete your bachelor.
+Newlane policy states that up to **25% of required major credits** can be transferred. We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM). This leaves the "Upper Division" specialty work for you to complete within Newlane's platform. Get hireable skills and well-respected credentials before you complete your bachelor.
 
 ### 4. CLEP & Saylor: The $0 Strategy
 We utilize **Modern States** to get you free CLEP vouchers and Saylor for the remaining. You fulfill Newlane’s General Education and Liberal Arts requirements for $0, saving your 25% "Major Transfer" allowance for high-impact technical certifications.
