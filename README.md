@@ -42,7 +42,7 @@ Our goal is to provide a standardized, community-driven curriculum that bypasses
 Newlane University offers a different path to an accredited liberal arts degree. They’ve swapped traditional semesters for a **competency-based model**. This means you don't sit through lectures; you simply prove you know the material. Once you pass their three-phase assessment, you move on.
 
 **The Financial Advantage:**
-The cost is the most striking part. You pay **$1,500 total** for an Associate’s or Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
+The cost is the most striking part. You pay **$1,500 total** for your Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coursera_logo_%282020%29.svg/500px-Coursera_logo_%282020%29.svg.png" height="40" alt="Coursera" style="margin: 10px;">
@@ -72,6 +72,39 @@ This repository contains 7 distinct "tracks" designed to maximize transfer credi
 * **The Degree:** A nationally accredited Bachelor's degree (via Newlane University).
 * **The Shield:** Industry-recognized certifications (Google, Microsoft, Cisco) that validate hard skills to employers who might look down on competency-based degrees.
 * **The Cost:** Optimized by using "Free-to-Cheap" credit sources (Modern States, Saylor Academy) for all non-specialty coursework.
+
+## Why These Tracks? (The Newlane Strategy)
+
+The BITC University tracks are not random collections of courses. They are precision-engineered to exploit **Newlane University’s Transfer Credit & CPL Policy**. This is how we achieve a Bachelor's degree for under $500.
+
+### 1. The 75% Rule (The "Heavy Lifting")
+Newlane allows you to transfer up to **75% of your total degree credits**. 
+* **BITC Strategy:** We provide exactly 45 credits of "Specialty Core" and "Electives" per track, plus the 15-credit Liberal Arts Core. 
+* **The Result:** You walk into Newlane with 60 credits already in your pocket, halfway to a 120-credit Bachelor's degree before you pay your first month of tuition.
+
+### 2. Industry Certifications as Academic Credit
+Newlane’s **Credit for Prior Learning (CPL)** policy specifically recognizes industry-recognized certifications. 
+* **BITC Strategy:** We use certifications from **Google, IBM, Microsoft, and Cisco**. 
+* **The Benefit:** These aren't just for your resume. Because these providers carry **ACE (American Council on Education)** credit recommendations, Newlane can evaluate them for direct credit toward your major.
+
+### 3. The Major Credit Limit (The 25% Guardrail)
+Newlane policy states that up to **25% of required major credits** can be transferred.
+* **BITC Strategy:** We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM).
+* **The Benefit:** This leaves the "Upper Division" specialty work for you to complete within Newlane's competency-based platform, ensuring your degree has the necessary institutional rigor while clearing the "busy work" via transfer.
+
+### 4. CLEP & Saylor: The $0 Strategy
+Newlane recognizes **Credit by Examination** (CLEP/DSST).
+* **BITC Strategy:** We utilize **Modern States** to get you free CLEP vouchers.
+* **The Benefit:** You fulfill Newlane’s General Education and Liberal Arts requirements for $0, saving your 25% "Major Transfer" allowance for high-impact technical certifications.
+
+---
+
+## Transfer Checklist (Newlane Policy Alignment)
+
+To ensure your BITC University credits are accepted, you must follow these Newlane-specific requirements:
+
+1. **ACE/NCCRS Status:** Every course in our tracks is selected because it currently carries **ACE** or **NCCRS** credit recommendations.
+2. **The
 
 ## The Universal Liberal Arts Core (15 Credits)
 *Required for ALL tracks. Completed via Modern States (Free).*
