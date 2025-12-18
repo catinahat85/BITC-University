@@ -48,8 +48,8 @@ This repository contains 7 distinct "tracks" designed to maximize transfer credi
 | History of the United States I | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
 
 ## The Tracks
-1.  **[Cybersecurity](tracks/cybersecurity.md):** Operations, Defense, and Compliance.
-2.  **[Artificial Intelligence](tracks/ai_engineering.md):** Engineering, Math, and Model Deployment.
+1.  **[Cybersecurity](cybersecurity.md):** Operations, Defense, and Compliance.
+2.  **[Artificial Intelligence](ai_engineering.md):** Engineering, Math, and Model Deployment.
 3.  **[Cloud & DevOps](tracks/cloud_devops.md):** Multi-cloud Infrastructure and CI/CD.
 4.  **[Network Management](tracks/network_mgmt.md):** Hardware, Connectivity, and Infrastructure.
 5.  **[Software Development](tracks/software_dev.md):** Full Stack Engineering (Frontend + Backend).
