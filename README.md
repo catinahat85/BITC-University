@@ -50,11 +50,11 @@ This repository contains 7 distinct "tracks" designed to maximize transfer credi
 ## The Tracks
 1.  **[Cybersecurity](cybersecurity.md):** Operations, Defense, and Compliance.
 2.  **[Artificial Intelligence](ai_engineering.md):** Engineering, Math, and Model Deployment.
-3.  **[Cloud & DevOps](tracks/cloud_devops.md):** Multi-cloud Infrastructure and CI/CD.
-4.  **[Network Management](tracks/network_mgmt.md):** Hardware, Connectivity, and Infrastructure.
-5.  **[Software Development](tracks/software_dev.md):** Full Stack Engineering (Frontend + Backend).
-6.  **[Data Science](tracks/data_science.md):** Analytics, Statistics, and Modeling.
-7.  **[Project Management](tracks/project_mgmt.md):** Agile, Scrum, and Product Leadership.
+3.  **[Cloud & DevOps](cloud_devops.md):** Multi-cloud Infrastructure and CI/CD.
+4.  **[Network Management](network_mgmt.md):** Hardware, Connectivity, and Infrastructure.
+5.  **[Software Development](software_dev.md):** Full Stack Engineering (Frontend + Backend).
+6.  **[Data Science](data_science.md):** Analytics, Statistics, and Modeling.
+7.  **[Project Management](project_mgmt.md):** Agile, Scrum, and Product Leadership.
 
 # Contributing to BITC University
 
