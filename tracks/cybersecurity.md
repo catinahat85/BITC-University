@@ -3,9 +3,9 @@
 **Est. Cost:** $253  
 **Time to Complete:** ~9 Months
 
-* **Target Degree:** **B.A. in Liberal Arts, Specialization in Business Administration**
-* **Why:** The inclusion of Business Law, Ethics, Project Management, and Strategic IT makes this a perfect "Security Management" degree path.
-* 
+* **Target Degree:** **B.A. in Philosophy**
+* **Why:** Cybersecurity is no longer just about firewalls; it is about **Logic, Ethics, and Privacy Law**. A Philosophy degree validates your ability to handle the "Governance, Risk, and Compliance" (GRC) side of security, while the certifications prove the technical capability.
+
 
 ## Specialty Core (30 Credits)
 *Strategy: Combine the Google tactical certification with Cisco's networking authority.*
