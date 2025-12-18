@@ -44,6 +44,7 @@ Newlane University offers a different path to an accredited liberal arts degree.
 **The Financial Advantage:**
 The cost is the most striking part. You pay **$1,500 total** for your Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
 
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coursera_logo_%282020%29.svg/500px-Coursera_logo_%282020%29.svg.png" height="40" alt="Coursera" style="margin: 10px;">
   <img src="https://modernstates.org/wp-content/themes/modern-states/assets/img/ms-logo-inverse.svg" height="40" alt="Modern States" style="margin: 10px;">
