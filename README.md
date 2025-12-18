@@ -63,16 +63,16 @@ Every course and exam listed in BITC University was selected for one specific re
 This repository contains 7 distinct "tracks" designed to maximize transfer credits while ensuring professional viability. 
 
 ### 1. The 75% Rule (The "Heavy Lifting")
-Newlane allows you to transfer up to **75% of your total degree credits**. BITC provides exactly 45 credits of "Specialty Core" and "Electives" per track, plus the 15-credit Liberal Arts Core.
+Newlane allows you to transfer up to **75% of your total degree credits**. BITC provides exactly 45 credits of "Specialty Core" and "Electives" per track, plus the 15-credit Liberal Arts Core,allowing you to bypass an associate's degree requirement.
 
 ### 2. Industry Certifications as Academic Credit
 Newlane’s **Credit for Prior Learning (CPL)** policy specifically recognizes industry-recognized certifications. We use certifications from **Google, IBM, Microsoft, and Cisco**. Because these providers carry ACE recommendations, Newlane can evaluate them for direct credit toward your major.
 
 ### 3. The Major Credit Limit (The 25% Guardrail)
-Newlane policy states that up to **25% of required major credits** can be transferred. We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM). This leaves the "Upper Division" specialty work for you to complete within Newlane's platform.
+Newlane policy states that up to **25% of required major credits** can be transferred. We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM). This leaves the "Upper Division" specialty work for you to complete within Newlane's platform. Get hireable skills and credentials before you complete your bachelor.
 
 ### 4. CLEP & Saylor: The $0 Strategy
-We utilize **Modern States** to get you free CLEP vouchers. You fulfill Newlane’s General Education and Liberal Arts requirements for $0, saving your 25% "Major Transfer" allowance for high-impact technical certifications.
+We utilize **Modern States** to get you free CLEP vouchers and Saylor for the remaining. You fulfill Newlane’s General Education and Liberal Arts requirements for $0, saving your 25% "Major Transfer" allowance for high-impact technical certifications.
 
 ---
 
