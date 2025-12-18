@@ -1,4 +1,20 @@
-# BitC University
+<div align="center">
+  <img src="assets/logo.png" alt="BeatsintheCloud University Logo" width="250">
+
+  # BitC University
+  ### *BeatsintheCloud University*
+  
+  **The Open-Source "Shield Strategy" Degree Roadmap**
+
+  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+  [![Degree: Newlane Transfer](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu)
+  [![Cost: Under $500](https://img.shields.io/badge/Cost-%3C$500_Total-green)](#)
+
+  **Hack the debt. Build the shield. Get hired.**
+</div>
+
+---
+
 ## Goal & Mission Statement
 
 ### The Problem
