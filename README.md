@@ -8,7 +8,7 @@ U.S. Higher Education is out of control. The current system demands that you tak
 **BITC University** exists to break that cycle. Our mission is to provide a radical, open-source roadmap for the "Shield Strategy"—a method of education that prioritizes technical competence and financial freedom over institutional prestige.
 
 We aim to dismantle the barrier to entry for high-paying tech and management careers by showing students how to:
-1. **Hack the Cost:** Use the "aggregated credit" model to earn a regionally accredited degree for under $500.
+1. **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for under $2000, with professional credentials to make you job-ready once you receive your diploma.
 2. **Build the Shield:** Earn industry-standard certifications (Google, Cisco, Microsoft) that force recruiters to take you seriously.
 3. **Finish Fast:** Execute a high-density, 9-month roadmap that respects your time and your intelligence.
 
@@ -27,12 +27,12 @@ It's built for people with busy lives or existing credits. You can transfer up t
 
 # The "Shield Strategy" Degree Plan
 **University:** Newlane University (via Aggregated Transfer Credits)  
-**Goal:** 9-Month completion | <$500 Total Cost | Job-Ready Certifications
+**Goal:** 9-Month completion | <$2000 Total Cost | Job-Ready Certifications
 
 ## The Strategy
 This repository contains 7 distinct "tracks" designed to maximize transfer credits while ensuring professional viability. 
 
-* **The Degree:** A regionally accredited Bachelor's degree (via Newlane University).
+* **The Degree:** A nationally accredited Bachelor's degree (via Newlane University).
 * **The Shield:** Industry-recognized certifications (Google, Microsoft, Cisco) that validate hard skills to employers who might look down on competency-based degrees.
 * **The Cost:** Optimized by using "Free-to-Cheap" credit sources (Modern States, Saylor Academy) for all non-specialty coursework.
 
