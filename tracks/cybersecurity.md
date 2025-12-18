@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/cybersecurity_(1).png" alt="Cybersecurity Track Logo" width="250">
+</div>
+
+
 # Track: Cybersecurity Operations
 **Focus:** Blue Team, Network Defense, Compliance  
 **Est. Cost:** $253  
