@@ -3,8 +3,9 @@
 **Est. Cost:** $261  
 **Time to Complete:** ~9 Months
 
-* **Target Degree:** **B.A. in Liberal Arts, Specialization in Business Administration**
-* **Why:** Data Science is the bridge between Math and Business. This track includes Macro/Microeconomics, Marketing, and Management, making Business Administration the natural academic home.
+* **Target Degree:** **B.A. in Liberal Arts, Specialization in Psychology**
+* **Why:** Data Science is ultimately the study of **Human Behavior** (Behavioral Analytics). By pairing data skills with Psychology, you create a powerful "Behavioral Data Science" degree that is highly valuable in marketing and tech.
+
 
 ## Specialty Core (30 Credits)
 *Strategy: Google for tools (R/SQL), Saylor/CLEP for Math/Econ.*
