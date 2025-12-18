@@ -3,6 +3,9 @@
 **Est. Cost:** $204  
 **Time to Complete:** ~6-9 Months
 
+* **Target Degree:** **B.A. in Liberal Arts, Specialization in Business Administration**
+* **Why:** This track is designed to build an "IT Director." It leans heavily on Management, Law, and Strategy to complement the Cisco technical skills.
+
 ## Specialty Core (30 Credits)
 *Strategy: Cisco CCST is the anchor. Saylor provides the theory.*
 
