@@ -1,8 +1,21 @@
 # BITC University
-Open-source degree hacking guide. 7 specialized tracks to earn an accredited US Bachelor's degree for &lt;$500 via Newlane University transfer credits + Industry Certifications.
+## Goal & Mission Statement
 
-U.S. Higher Education is out of control. You need insurmountable debt meet the minimum requirement of a Bachelors. However, without professional certifications, you cannot get interviewed. 
-BITC University aims to solve for that.
+### The Problem
+U.S. Higher Education is out of control. The current system demands that you take on insurmountable debt just to meet the "minimum requirement" of a Bachelor’s degree. For most, this means spending four years and $40,000+ on theoretical lectures, only to find that HR still won't interview you because you lack professional certifications. You are left with a piece of paper, no job-ready skills, and a monthly bill you can't afford.
+
+### The Mission
+**BITC University** exists to break that cycle. Our mission is to provide a radical, open-source roadmap for the "Shield Strategy"—a method of education that prioritizes technical competence and financial freedom over institutional prestige.
+
+We aim to dismantle the barrier to entry for high-paying tech and management careers by showing students how to:
+1. **Hack the Cost:** Use the "aggregated credit" model to earn a regionally accredited degree for under $500.
+2. **Build the Shield:** Earn industry-standard certifications (Google, Cisco, Microsoft) that force recruiters to take you seriously.
+3. **Finish Fast:** Execute a high-density, 9-month roadmap that respects your time and your intelligence.
+
+### The Goal
+Our goal is to provide a standardized, community-driven curriculum that bypasses the predatory tuition model. We don't care about "college life" or sports teams; we care about your ROI. By the time you graduate through this path, you won't just have an accredited degree to get past the HR filters—you'll have the professional badges that prove you can actually do the work.
+
+**Stop overpaying for a seat in a classroom. Start building your career.**
 
 How?
 
