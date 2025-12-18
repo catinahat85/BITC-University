@@ -20,7 +20,7 @@
 Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
 **BITC University** is the roadmap to get both for under **$2,000**. We use the **"Shield Strategy"**:
-1.  **Hack the Cost:** Use the "aggregated credit" model to earn a regionally accredited degree for pennies on the dollar.
+1.  **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
 2.  **Build the Shield:** Prioritize industry-standard certifications (Google, Cisco, Microsoft) that prove technical competence.
 3.  **Finish Fast:** A high-density, 9-month curriculum that respects your time.
 
