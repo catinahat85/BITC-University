@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/cybersecurity_(1).png" alt="Cybersecurity Track Logo" width="250">
+  <img src="../assets/cybersecurity (1).png" alt="Cybersecurity Track Logo" width="250">
 </div>
 
 
