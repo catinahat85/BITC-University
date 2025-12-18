@@ -6,7 +6,7 @@ BITC University aims to solve for that.
 
 How?
 
-# Newlane University
+# But Why Newlane University?
 Newlane University offers a different path to an accredited liberal arts degree. They’ve swapped traditional semesters for a competency-based model. This means you don't sit through lectures; you simply prove you know the material. Once you pass their three-phase assessment, you move on.
 The cost is the most striking part. You pay $1,500 total for an Associate’s or Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
 It's built for people with busy lives or existing credits. You can transfer up to 75% of your degree from previous schools or exams. There are no admissions hurdles or fixed schedules, so you can start immediately from anywhere. Essentially, they provide the framework and the accreditation while you control the pace.
