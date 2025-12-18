@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/networking.png" alt="Networking Track Logo" width="250">
+</div>
+
+
 # Track: Network Management
 **Focus:** Connectivity, Hardware, Infrastructure  
 **Est. Cost:** $204  
