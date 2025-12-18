@@ -8,7 +8,7 @@
 
   [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
   [![Degree: Newlane Transfer](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu)
-  [![Cost: Under $2000](https://img.shields.io/badge/Cost-%3C$500_Total-green)](#)
+  [![Cost: Under $2000](https://img.shields.io/badge/Cost-%3C$2000_Total-green)](#)
 
   **Hack the debt. Build the shield. Get hired.**
 </div>
