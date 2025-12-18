@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/software.png" alt="AI Engineering Track Logo" width="250">
+</div>
+
+
 # Track: Software Development
 **Focus:** Full Stack (Frontend + Backend), Web Engineering  
 **Est. Cost:** $265  
