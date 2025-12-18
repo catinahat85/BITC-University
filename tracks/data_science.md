@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/data science.png" alt="AI Engineering Track Logo" width="250">
+</div>
+
+
 # Track: Data Science
 **Focus:** Analytics, Modeling, Statistics  
 **Est. Cost:** $261  
