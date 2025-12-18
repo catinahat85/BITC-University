@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../assets/AI.png" alt="AI Engineering Track Logo" width="250">
+</div>
+
 # Track: AI Engineering
 **Focus:** Machine Learning, Deep Learning, Math  
 **Est. Cost:** $315  
