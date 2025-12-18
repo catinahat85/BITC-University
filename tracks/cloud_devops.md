@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="../assets/cloud.png" alt="AI Engineering Track Logo" width="250">
+</div>
+
+
 # Track: Cloud & DevOps
 **Focus:** Infrastructure as Code, CI/CD, Multi-Cloud  
 **Est. Cost:** $337  
