@@ -3,6 +3,10 @@
 **Est. Cost:** $192  
 **Time to Complete:** ~6-9 Months
 
+* **Target Degree:** **B.A. in Liberal Arts, Specialization in Business Administration**
+* **Why:** This track is 100% aligned with the Business Administration major. Every single core course and elective is a standard business school requirement.
+
+
 ## Specialty Core (30 Credits)
 *Strategy: Cheapest track. Uses Google PM cert + Business Ops credits.*
 
