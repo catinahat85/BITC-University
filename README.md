@@ -33,12 +33,23 @@ Our goal is to provide a standardized, community-driven curriculum that bypasses
 
 **Stop overpaying for a seat in a classroom. Start building your career.**
 
-How?
+<div align="center">
+  <img src="https://newlane.edu/wp-content/uploads/2024/03/Logo-2.png" alt="Newlane University Logo" width="300">
+</div>
 
-# But Why Newlane University?
-Newlane University offers a different path to an accredited liberal arts degree. They’ve swapped traditional semesters for a competency-based model. This means you don't sit through lectures; you simply prove you know the material. Once you pass their three-phase assessment, you move on.
-The cost is the most striking part. You pay $1,500 total for an Associate’s or Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
-It's built for people with busy lives or existing credits. You can transfer up to 75% of your degree from previous schools or exams. There are no admissions hurdles or fixed schedules, so you can start immediately from anywhere. Essentially, they provide the framework and the accreditation while you control the pace.
+### But Why Newlane University?
+
+Newlane University offers a different path to an accredited liberal arts degree. They’ve swapped traditional semesters for a **competency-based model**. This means you don't sit through lectures; you simply prove you know the material. Once you pass their three-phase assessment, you move on.
+
+**The Financial Advantage:**
+The cost is the most striking part. You pay **$1,500 total** for an Associate’s or Bachelor’s degree. It starts with $249 upfront and $39 a month until you hit that cap. If you need more time after paying the full amount, you keep your access for free until you graduate.
+
+**Built for the "Shield Strategy":**
+* **Massive Transfer Capacity:** You can transfer up to **75% of your degree** from previous schools or ACE-recommended exams (like the ones in this repo).
+* **Zero Hurdles:** There are no admissions hurdles or fixed schedules. You start immediately.
+* **Ultimate Control:** They provide the framework and the accreditation while you control the pace.
+
+> "Essentially, they provide the accreditation while you control the pace."
 
 
 # The "Shield Strategy" Degree Plan
