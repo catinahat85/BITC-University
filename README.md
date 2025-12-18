@@ -111,14 +111,16 @@ To ensure your BITC University credits are accepted, you must follow these Newla
 
 **Email transcripts directly to:** `transcripts@newlane.edu`
 
-## Disclaimer
-**Legal Notice & Affiliation**
+## ⚠️ Disclaimer & Legal Notice
 
-This repository, **BITC University**, is an independent educational research project and is provided for informational purposes only.
+**BITC University is an open-source educational roadmap, not an accredited academic institution.**
 
+This repository is an independent educational research project provided for informational purposes only.
+
+* **Not a University:** "BITC University" does not grant degrees, certificates, or credits. We are a community-maintained guide that organizes third-party courses into efficient transfer tracks. All degrees are awarded solely by the destination university (e.g., **Newlane University**).
 * **No Affiliation:** I am in no way affiliated with, endorsed by, or partnered with **Newlane University**, Modern States, Saylor Academy, Coursera, Google, Microsoft, Cisco, or IBM. All trademarks, service marks, and company names are the property of their respective owners.
 * **Transfer Policy:** Transfer credit acceptance is determined solely by Newlane University. Policies, residency requirements, and transfer caps can change at any time. You are responsible for verifying with the Newlane registrar that these specific ACE-recommended credits satisfy current degree requirements before committing time or money.
-* **No Guarantee of Results:** Following these tracks does not guarantee admission to any university, the awarding of a degree, or employment. 
+* **No Guarantee of Results:** Following these tracks does not guarantee admission to any university, the awarding of a degree, or employment.
 * **Financial & Technical Risk:** I am not responsible for failed exams, changes in subscription pricing, or financial loss. All cost estimates are based on 2025 market rates and are subject to change.
 
 **Use this roadmap at your own risk. Perform your own due diligence.**
