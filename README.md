@@ -43,7 +43,34 @@ This repository contains 7 distinct "tracks" designed to maximize transfer credi
 6.  **[Data Science](tracks/data_science.md):** Analytics, Statistics, and Modeling.
 7.  **[Project Management](tracks/project_mgmt.md):** Agile, Scrum, and Product Leadership.
 
+# Contributing to BITC University
 
+First off, thanks for taking an interest in helping others hack their education. This project stays alive because the community finds new credit shortcuts and identifies when old ones stop working.
+
+## How You Can Help
+
+### 1. Update Course Info
+If a provider (Saylor, Coursera, etc.) changes their ACE credit recommendation or a course is discontinued, please open an Issue or a Pull Request immediately.
+
+### 2. Suggest New Tracks
+Found a way to do a specialized degree in a field we haven't covered? Draft a new `.md` file in the `tracks/` folder and submit it.
+
+### 3. Cost Optimization
+If you find a cheaper way to earn a specific credit (e.g., a new free voucher program or a cheaper proctoring service), let us know.
+
+## Contribution Guidelines
+
+* **Keep it Direct:** No fluff. Use the existing table formats.
+* **Verify Credits:** Ensure any course you suggest carries an active **ACE Credit Recommendation**. We don't want students taking courses that won't transfer.
+* **Diversify:** Prefer "The Shield Strategy"—mixing academic theory with industry-recognized certifications.
+
+## Pull Request Process
+
+1. Fork the repo.
+2. Create your feature branch (`git checkout -b feature/NewTrack`).
+3. Commit your changes.
+4. Push to the branch.
+5. Open a Pull Request with a brief explanation of why the change is beneficial.
 
 
 
@@ -403,3 +430,17 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 Section 6 -- Term and Termination.
 
   a. This Public License applies
+
+
+## Disclaimer
+
+**Legal Notice & Affiliation**
+
+This repository, **BITC University**, is an independent educational research project and is provided for informational purposes only.
+
+* **No Affiliation:** I am in no way affiliated with, endorsed by, or partnered with **Newlane University**, Modern States, Saylor Academy, Coursera, Google, Microsoft, Cisco, or IBM. All trademarks, service marks, and company names are the property of their respective owners.
+* **Transfer Policy:** Transfer credit acceptance is determined solely by Newlane University. Policies, residency requirements, and transfer caps can change at any time. You are responsible for verifying with the Newlane registrar that these specific ACE-recommended credits satisfy current degree requirements before committing time or money.
+* **No Guarantee of Results:** Following these tracks does not guarantee admission to any university, the awarding of a degree, or employment. 
+* **Financial & Technical Risk:** I am not responsible for failed exams, changes in subscription pricing, or financial loss. All cost estimates are based on 2025 market rates and are subject to change.
+
+**Use this roadmap at your own risk. Perform your own due diligence.**
