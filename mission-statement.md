@@ -93,7 +93,7 @@ Because the system is broken, but you still have to navigate it.
 ❌ A degree-worship cult pretending credentials = competence  
 ❌ A get-rich-quick scheme
 
-**We're a pragmatic pathway** built by someone who actually did it—and generated $16M in revenue to prove it works.
+**We're a pragmatic pathway** built by someone who actually did it—and generated >$10M in revenue to prove it works.
 
 ---
 
