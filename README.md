@@ -1,3 +1,8 @@
+---
+layout: default
+title: BITC University
+---
+
 <div align="center">
 
 <img src="assets/logo.png" alt="BitC University Logo" width="200"/>
