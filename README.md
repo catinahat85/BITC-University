@@ -1,27 +1,28 @@
----
-layout: default
-title: BITC University
----
-
 <div align="center">
+  <img src="assets/logo.png" alt="BitC University Logo" width="200"/>
+  
+  <h1>BitC University</h1>
+  
+  <h3><em>BeatsintheCloud University</em></h3>
+  
+  <p><strong>The Open-Source "Shield Strategy" Degree Roadmap</strong></p>
+  
+  <p>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
+    <a href="https://newlane.edu"><img src="https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue" alt="Degree: Newlane Transfer"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cost-%3C$2000_Total-green" alt="Cost: Under $2000"></a>
+  </p>
+  
+  <p><strong>Hack the debt. Build the shield. Get hired.</strong></p>
+</div>
 
-<img src="assets/logo.png" alt="BitC University Logo" width="200"/>
+---
 
-# BitC University
+## The Mission
 
-### *BeatsintheCloud University*
+**The System is Broken.** Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
-**The Open-Source "Shield Strategy" Degree Roadmap**
-
-<br>
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Degree: Newlane Transfer](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu)
-[![Cost: Under $2000](https://img.shields.io/badge/Cost-%3C$2000_Total-green)](#)
-
-<br>
-
-**Hack the debt. Build the shield. Get hired.**
+**BITC University** is the roadmap to get both for under **$2,000**. We use the **"Shield Strategy"**:
 
 </div>
 
