@@ -19,7 +19,7 @@
 ---
 
 ## The Mission
-[Read the full Mission Statement](./Mission%20Statement)
+[Read the full Mission Statement](./Mission%20Statement.md)
 
 **The System is Broken.** Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
