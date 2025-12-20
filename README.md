@@ -26,7 +26,7 @@
 1.  **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
 2.  **Build the Shield:** Prioritize industry-standard certifications (Google, Cisco, Microsoft) that prove technical competence.
 3.  **Finish Fast:** A high-density, 9-month curriculum that respects your time.
-4.  **Skip the associate degree and general education filler by earning credentials that make you hirable now and slot you directly into Newlane’s bachelor programs.
+4.  **Skip the associate degree:** By earning focused skills and credentials that make you hirable now and slot you directly into Newlane’s bachelor programs.
 
 **Stop overpaying for a seat in a classroom. Start building your career.**
 
