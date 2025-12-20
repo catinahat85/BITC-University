@@ -1,23 +1,26 @@
 <div align="center">
-  <img src="assets/logo.png" alt="BeatsintheCloud University Logo" width="250">
 
-  # BitC University
-  ### *BeatsintheCloud University*
-   
-  **The Open-Source "Shield Strategy" Degree Roadmap**
+![BitC University Logo](assets/logo.png)
 
-  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-  [![Degree: Newlane Transfer](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu)
-  [![Cost: Under $2000](https://img.shields.io/badge/Cost-%3C$2000_Total-green)](#)
+# BitC University
 
-  **Hack the debt. Build the shield. Get hired.**
+### *BeatsintheCloud University*
+
+**The Open-Source "Shield Strategy" Degree Roadmap**
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Degree](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu)
+[![Cost](https://img.shields.io/badge/Cost-%3C%242000_Total-green)](#)
+
+### **Hack the debt. Build the shield. Get hired.**
+
 </div>
 
 ---
 
 ## The Mission
-**The System is Broken.**
-Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
+
+**The System is Broken.** Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
 **BITC University** is the roadmap to get both for under **$2,000**. We use the **"Shield Strategy"**:
 1.  **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
