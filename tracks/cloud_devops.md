@@ -1,3 +1,11 @@
+---
+layout: default
+title: Cloud & DevOps Track
+parent: Home
+nav_order: 4
+---
+
+
 <div align="center">
   <img src="../assets/cloud.png" alt="Cloud & DevOps Track Logo" width="250">
 </div>
