@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cybersecurity Track
+parent: Home
+nav_order: 2
+---
+
 <div align="center">
   <img src="../assets/cybersecurity (1).png" alt="Cybersecurity Track Logo" width="250">
 </div>
