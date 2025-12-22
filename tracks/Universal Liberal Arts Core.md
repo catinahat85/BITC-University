@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Liberal Arts Core (Start Here)
+title: Liberal Arts Core
 parent: Home
 nav_order: 2
 ---
