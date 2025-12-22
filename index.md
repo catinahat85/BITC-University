@@ -109,30 +109,7 @@ We utilize **Modern States** to get you free CLEP vouchers and Saylor for the re
 
 ---
 
-## The Universal Liberal Arts Core (15 Credits)
-*Required for ALL tracks. Completed via Modern States (Free).*
-
-| Course Name | Provider | Credits | Cost | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| College Composition | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
-| College Mathematics | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
-| Humanities | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
-| Introductory Sociology | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
-| History of the United States I | Modern States (CLEP) | 3 | $0 | Free voucher from Modern States |
-
 ---
-
-## The Tracks
-
-| # | Track | Focus Area |
-|---|-------|------------|
-| 1 | **[Cybersecurity](/tracks/cybersecurity.html)** | Operations, Defense, and Compliance |
-| 2 | **[Artificial Intelligence](/tracks/ai_engineering.html)** | Engineering, Math, and Model Deployment |
-| 3 | **[Cloud & DevOps](/tracks/cloud_devops.html)** | Multi-cloud Infrastructure and CI/CD |
-| 4 | **[Network Management](/tracks/network_mgmt.html)** | Hardware, Connectivity, and Infrastructure |
-| 5 | **[Software Development](/tracks/software_dev.html)** | Full Stack Engineering (Frontend + Backend) |
-| 6 | **[Data Science](/tracks/data_science.html)** | Analytics, Statistics, and Modeling |
-| 7 | **[Project Management](/tracks/project_mgmt.html)** | Agile, Scrum, and Product Leadership |
 
 ---
 
@@ -151,20 +128,6 @@ To ensure your BITC University credits are accepted, you must follow these Newla
 **Email transcripts directly to:** `transcripts@newlane.edu`
 
 ---
-
-## ⚠️ Disclaimer & Legal Notice
-
-**BITC University is an open-source educational roadmap, not an accredited academic institution.**
-
-This repository is an independent educational research project provided for informational purposes only.
-
-* **Not a University:** "BITC University" does not grant degrees, certificates, or credits. We are a community-maintained guide that organizes third-party courses into efficient transfer tracks. All degrees are awarded solely by the destination university (e.g., **Newlane University**).
-* **No Affiliation:** I am in no way affiliated with, endorsed by, or partnered with **Newlane University**, Modern States, Saylor Academy, Coursera, Google, Microsoft, Cisco, or IBM. All trademarks, service marks, and company names are the property of their respective owners.
-* **Transfer Policy:** Transfer credit acceptance is determined solely by Newlane University. Policies, residency requirements, and transfer caps can change at any time. You are responsible for verifying with the Newlane registrar that these specific ACE-recommended credits satisfy current degree requirements before committing time or money.
-* **No Guarantee of Results:** Following these tracks does not guarantee admission to any university, the awarding of a degree, or employment.
-* **Financial & Technical Risk:** I am not responsible for failed exams, changes in subscription pricing, or financial loss. All cost estimates are based on 2025 market rates and are subject to change.
-
-**Use this roadmap at your own risk. Perform your own due diligence.**
 
 ---
 
