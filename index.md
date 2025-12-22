@@ -11,11 +11,7 @@ nav_order: 1
 </style>
 
 <div align="center">
-
-
-
-<div align="center">
-  <img src="assets/logo.png" alt="BitC University Logo" width="850"/>
+  <img src="/assets/logo.png" alt="BitC University Logo" width="850"/>
   
   <h1>BitC University</h1>
   
@@ -51,7 +47,7 @@ nav_order: 1
 
 ## The Mission
 
-[📖 Read the full Mission Statement](./mission-statement.md)
+[📖 Read the full Mission Statement](/mission-statement.html)
 
 **The System is Broken.** Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
@@ -140,13 +136,13 @@ We utilize **Modern States** to get you free CLEP vouchers and Saylor for the re
 
 | # | Track | Focus Area |
 |---|-------|------------|
-| 1 | **[Cybersecurity](tracks/cybersecurity.md)** | Operations, Defense, and Compliance |
-| 2 | **[Artificial Intelligence](tracks/ai_engineering.md)** | Engineering, Math, and Model Deployment |
-| 3 | **[Cloud & DevOps](tracks/cloud_devops.md)** | Multi-cloud Infrastructure and CI/CD |
-| 4 | **[Network Management](tracks/network_mgmt.md)** | Hardware, Connectivity, and Infrastructure |
-| 5 | **[Software Development](tracks/software_dev.md)** | Full Stack Engineering (Frontend + Backend) |
-| 6 | **[Data Science](tracks/data_science.md)** | Analytics, Statistics, and Modeling |
-| 7 | **[Project Management](tracks/project_mgmt.md)** | Agile, Scrum, and Product Leadership |
+| 1 | **[Cybersecurity](/tracks/cybersecurity.html)** | Operations, Defense, and Compliance |
+| 2 | **[Artificial Intelligence](/tracks/ai_engineering.html)** | Engineering, Math, and Model Deployment |
+| 3 | **[Cloud & DevOps](/tracks/cloud_devops.html)** | Multi-cloud Infrastructure and CI/CD |
+| 4 | **[Network Management](/tracks/network_mgmt.html)** | Hardware, Connectivity, and Infrastructure |
+| 5 | **[Software Development](/tracks/software_dev.html)** | Full Stack Engineering (Frontend + Backend) |
+| 6 | **[Data Science](/tracks/data_science.html)** | Analytics, Statistics, and Modeling |
+| 7 | **[Project Management](/tracks/project_mgmt.html)** | Agile, Scrum, and Product Leadership |
 
 ---
 
