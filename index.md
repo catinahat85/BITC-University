@@ -4,15 +4,12 @@ title: Home
 nav_order: 1
 ---
 
-
-
 <style>
   /* Force the container to be wider on desktop */
   .main-content {
     max-width: 1200px !important; 
   }
 </style>
-
 
 <div align="center">
   <img src="assets/logo.png" alt="BitC University Logo" width="850"/>
