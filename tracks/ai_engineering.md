@@ -30,7 +30,7 @@ nav_order: 3
 |------------------------|----------|-----------|---------|------|
 | Azure AI Fundamentals (AI-900) | Microsoft (Exam) | $99 | 1 | **Cert #1:** Enterprise AI context |
 | IBM AI Engineering Cert | IBM (Coursera) | ~$196 | 15 | **Cert #2:** Deep Learning, ML, PyTorch |
-| Microsoft AI and ML Engineering Professional Certificate | Coursera | ~$196| 3 | Deep Learning, ML, PyTorch |
+| Microsoft AI and ML Engineering Professional Certificate | Coursera | ~$196| 6 | Deep Learning, ML, PyTorch |
 | BUS204: Business Statistics | Saylor | $5 | 3 | Data modeling stats |
 | PHIL102: Logic & Critical Thinking | Saylor | $5 | 3 | Decision trees/Logic |
 | CS302: Software Engineering | Saylor | $5 | 3 | System Design |
