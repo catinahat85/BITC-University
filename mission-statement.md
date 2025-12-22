@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mission Statement
-parent: Home
 nav_order: 010
 ---
 
