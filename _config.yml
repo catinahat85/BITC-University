@@ -1,3 +1,9 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: BITC University
+description: Open Source Degree Hacking
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation Logic
+search_enabled: true
+aux_links:
+  "Newlane University": "https://newlane.edu"
+  "ACE National Guide": "https://www.acenet.edu/National-Guide/"
