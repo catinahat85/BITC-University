@@ -37,7 +37,7 @@ nav_order: 4
 
 ---
 
-## Electives (15 Credits)
+## Recommended Electives (15 Credits)
 
 | Course Name | Provider | Cost | Credits | Relevance |
 |-------------|----------|------|---------|-----------|
