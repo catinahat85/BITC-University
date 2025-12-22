@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Track
+title: Liberal Arts Core (Start Here)
 parent: Home
 nav_order: 2
 ---
