@@ -1,3 +1,11 @@
+---
+layout: default
+title: Project Management Track
+parent: Home
+nav_order: 8
+---
+
+
 <div align="center">
   <img src="../assets/projectmgmt.png" alt="Project Management Track Logo" width="250">
 </div>
