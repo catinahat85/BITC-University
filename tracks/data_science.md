@@ -7,7 +7,7 @@ nav_order: 7
 
 
 <div align="center">
-  <img src="../assets/data science.png" alt="Data Science Track Logo" width="250">
+  <img src="../assets/data science.png" alt="Data Science Track Logo" width="800">
 </div>
 
 # Track: Data Science
