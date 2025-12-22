@@ -7,7 +7,7 @@ nav_order: 4
 
 
 <div align="center">
-  <img src="../assets/cloud.png" alt="Cloud & DevOps Track Logo" width="250">
+  <img src="../assets/cloud.png" alt="Cloud & DevOps Track Logo" width="800">
 </div>
 
 # Track: Cloud & DevOps
