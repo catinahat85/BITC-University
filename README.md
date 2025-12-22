@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="BitC University Logo" width="600"/>
+  <img src="assets/logo.png" alt="BitC University Logo" width="800"/>
   
   <h1>BitC University</h1>
   
