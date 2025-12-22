@@ -2,7 +2,7 @@
 layout: default
 title: Cybersecurity Track
 parent: Home
-nav_order: 7
+nav_order: 5
 ---
 
 <div align="center">
