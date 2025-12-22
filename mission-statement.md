@@ -2,7 +2,7 @@
 layout: default
 title: Mission Statement
 parent: Home
-nav_order: 2
+nav_order: 10
 ---
 
 # **THE BITC MANIFESTO**
