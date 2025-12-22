@@ -30,7 +30,8 @@ nav_order: 4
 |------------------------|----------|-----------|---------|------|
 | Azure Administrator (AZ-104) | Microsoft (Exam) | $165 | 3 | **Cert #1:** Cloud Admin Gold Standard |
 | Google Cloud Engineering | Google (Coursera) | ~$49 | 6 | **Cert #2:** GCP Infrastructure |
-| IBM DevOps & Engineering | IBM (Coursera) | Incl. | 12 | CI/CD, Kubernetes, Docker |
+| IBM DevOps & Engineering | IBM (Coursera) | ~$49 | 18 | CI/CD, Kubernetes, Docker |
+| IBM Full Stack Cloud Development | IBM (Coursera) | ~$49 | 18 | Advanced Cloud Concepts|
 | CS402: Computer Comms | Saylor | $5 | 3 | Networking foundation |
 | BUS303: Strategic IT | Saylor | $5 | 3 | Cloud Strategy/Costs |
 | BUS206: Mgmt Info Systems | Saylor | $5 | 3 | Systems Admin |
