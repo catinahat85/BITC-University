@@ -14,7 +14,7 @@ nav_order: 5
 # Track: Network Management
 
 **Focus:** Connectivity, Hardware, Infrastructure  
-**Est. Cost:** $204  
+**Est. Cost:** $379 
 **Time to Complete:** ~6-9 Months
 
 **Target Degree:** B.A. in Liberal Arts, Specialization in Business Administration
@@ -29,7 +29,7 @@ nav_order: 5
 
 | Course / Certification | Provider | Est. Cost | Credits | Role |
 |------------------------|----------|-----------|---------|------|
-| Cisco CCST: Networking | Cisco (Exam) | $125 | 3 | **Cert #1:** Router/Switch configuration |
+| Cisco CCNA | Cisco (Exam) | $300 | 3 | **Cert #1:** Router/Switch configuration |
 | Google IT Support Cert | Google (Coursera) | ~$49 | 15 | **Cert #2:** IT Baseline (High Credit Yield) |
 | CS402: Computer Comms | Saylor | $5 | 3 | Deep networking theory |
 | BUS206: Mgmt Info Systems | Saylor | $5 | 3 | Infrastructure Mgmt |
