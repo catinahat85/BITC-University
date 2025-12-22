@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mission Statement
-nav_order: 010
+nav_order: 11
 ---
 
 # **THE BITC MANIFESTO**
