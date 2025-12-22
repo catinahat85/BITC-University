@@ -11,7 +11,7 @@ nav_order: 1
 </style>
 
 <div align="center">
-  <img src="/assets/logo.png" alt="BitC University Logo" width="850"/>
+  <img src="/assets/logo.png" alt="BitC University Logo" width="850" style="max-width: 100%; height: auto;"/>
   
   <h1>BitC University</h1>
   
@@ -33,7 +33,7 @@ nav_order: 1
 ## 📑 Table of Contents
 
 | Section | Description |
-|---------|-------------|
+| :--- | :--- |
 | [🎯 The Mission](#the-mission) | Why BITC University exists |
 | [🎓 Why Newlane University](#why-newlane-university) | The engine that makes this possible |
 | [✅ The ACE Credit Advantage](#the-ace-credit-advantage) | How we validate every credit |
@@ -53,10 +53,10 @@ nav_order: 1
 
 **BITC University** is the roadmap to get both for under **$2,000**. We use the **"Shield Strategy"**:
 
-1.  **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
-2.  **Build the Shield:** Prioritize industry-standard certifications (Google, Cisco, Microsoft) that prove technical competence.
-3.  **Finish Fast:** A high-density, 9-month curriculum that respects your time.
-4.  **Skip the associate degree:** By earning focused skills and credentials that make you hirable now and slot you directly into Newlane's bachelor programs.
+1. **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
+2. **Build the Shield:** Prioritize industry-standard certifications (Google, Cisco, Microsoft) that prove technical competence.
+3. **Finish Fast:** A high-density, 9-month curriculum that respects your time.
+4. **Skip the associate degree:** By earning focused skills and credentials that make you hirable now and slot you directly into Newlane's bachelor programs.
 
 **Stop overpaying for a seat in a classroom. Start building your career.**
 
@@ -101,25 +101,20 @@ Every course and exam listed in BITC University was selected for one specific re
 This repository contains 7 distinct "tracks" designed to maximize transfer credits while ensuring professional viability.
 
 ### 1. The 75% Rule (The "Heavy Lifting")
-
 Newlane allows you to transfer up to **75% of your total degree credits**. BITC provides exactly 45 credits of "Specialty Core" and "Electives" per track, plus the 15-credit Liberal Arts Core, allowing you to bypass an associate's degree requirement.
 
 ### 2. Industry Certifications as Academic Credit
-
 Newlane's **Credit for Prior Learning (CPL)** policy specifically recognizes industry-recognized certifications. We use certifications from **Google, IBM, Microsoft, and Cisco**. Because these providers carry ACE recommendations, Newlane can evaluate them for direct credit toward your major.
 
 ### 3. The Major Credit Limit (The 25% Guardrail)
-
 Newlane policy states that up to **25% of required major credits** can be transferred. We prioritize transferring the "IT Baseline" and "Foundational" major courses via ACE credits (Google/IBM). This leaves the "Upper Division" specialty work for you to complete within Newlane's platform. Get hireable skills and well-respected credentials before you complete your bachelor.
 
 ### 4. CLEP & Saylor: The $0 Strategy
-
 We utilize **Modern States** to get you free CLEP vouchers and Saylor for the remaining. You fulfill Newlane's General Education and Liberal Arts requirements for $0, saving your 25% "Major Transfer" allowance for high-impact technical certifications.
 
 ---
 
 ## The Universal Liberal Arts Core (15 Credits)
-
 *Required for ALL tracks. Completed via Modern States (Free).*
 
 | Course Name | Provider | Credits | Cost | Notes |
@@ -150,13 +145,13 @@ We utilize **Modern States** to get you free CLEP vouchers and Saylor for the re
 
 To ensure your BITC University credits are accepted, you must follow these Newlane-specific requirements:
 
-1.  **ACE/NCCRS Status:** Every course in our tracks is selected because it currently carries **ACE** or **NCCRS** credit recommendations.
-2.  **The "C-" Threshold:** For any credit that is not part of a previously completed degree, you must score the equivalent of a **C- or higher**. (Note: Most ACE-recommended providers like Saylor and Coursera require a 70% or higher to pass).
-3.  **Official Transcripts:** You must have your transcripts sent **directly** to Newlane.
+1. **ACE/NCCRS Status:** Every course in our tracks is selected because it currently carries **ACE** or **NCCRS** credit recommendations.
+2. **The "C-" Threshold:** For any credit that is not part of a previously completed degree, you must score the equivalent of a **C- or higher**. (Note: Most ACE-recommended providers like Saylor and Coursera require a 70% or higher to pass).
+3. **Official Transcripts:** You must have your transcripts sent **directly** to Newlane.
     * For CLEP: Send via College Board.
     * For Coursera/IBM/Google/Meta: Send your official **Credly** transcript.
     * For Saylor: Send via the Saylor Academy transcript portal.
-4.  **2/3 Rule:** Your transfer courses must meet at least **two-thirds** of the instructional hours of the corresponding Newlane course. Our tracks focus on 3-credit equivalent courses to ensure this threshold is met.
+4. **2/3 Rule:** Your transfer courses must meet at least **two-thirds** of the instructional hours of the corresponding Newlane course. Our tracks focus on 3-credit equivalent courses to ensure this threshold is met.
 
 **Email transcripts directly to:** `transcripts@newlane.edu`
 
