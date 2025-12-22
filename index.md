@@ -1,16 +1,17 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+
+
 <style>
   /* Force the container to be wider on desktop */
   .main-content {
     max-width: 1200px !important; 
   }
 </style>
-
-
----
-layout: default
-title: Home
-nav_order: 1
----
 
 
 <div align="center">
