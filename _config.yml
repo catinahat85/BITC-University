@@ -3,8 +3,8 @@ description: Open Source Degree Hacking
 remote_theme: just-the-docs/just-the-docs
 
 # GitHub Pages Settings
-baseurl: "/BITC-University"
-url: "https://catinahat85.github.io"
+baseurl: ""
+url: "https://www.beatsinthe.cloud"
 
 # Navigation Settings
 search_enabled: true
