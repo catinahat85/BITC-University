@@ -33,7 +33,7 @@ nav_order: 7
 | Information Systems | Modern States | $0 | 3 | Systems baseline |
 | BUS205: Business Law | Saylor | $5 | 3 | Liability & Regulation |
 | BUS200: Business Ethics | Saylor | $5 | 3 | Compliance |
-| CS302: Software Engineering | Saylor | $5 | 3 | Secure Dev Lifecycle |
+| ISC2 Certified in Cybersecurity | ISC2 | FREE | 3 | **Cert #3:** Business Continuity|
 | BUS402: Project Management | Saylor | $5 | 3 | Security Ops Management |
 
 ---
