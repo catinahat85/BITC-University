@@ -22,7 +22,7 @@ nav_order: 9
 
 ---
 
-## Specialty Core (30 Credits)
+## Specialty Core (31 Credits)
 
 *Strategy: 28 Credits from Coursera alone. High velocity track.*
 
@@ -31,11 +31,11 @@ nav_order: 9
 | Meta Front-End Developer | Meta (Coursera) | ~$98 | 10 | **Cert #1:** React, UI/UX, JS |
 | IBM Full Stack Developer | IBM (Coursera) | ~$147 | 18 | **Cert #2:** Cloud Native, Node.js, Python |
 | CS302: Software Engineering | Saylor | $5 | 3 | SDLC & Architecture |
-| MA120: Applied Algebra | Saylor | $5 | 3 | Logic Foundation |
+
 
 ---
 
-## Electives (15 Credits)
+## Recommended Electives (15 Credits)
 
 | Course Name | Provider | Cost | Credits | Relevance |
 |-------------|----------|------|---------|-----------|
