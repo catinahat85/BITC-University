@@ -24,7 +24,7 @@ nav_order: 4
 
 ## Specialty Core (39 Credits)
 
-*Strategy: Validate on Azure (Enterprise) and Google (Startup/Tech).*
+*Strategy: Understand DevOps culture and cloud native architecture.*
 
 | Course / Certification | Provider | Est. Cost | Credits | Role |
 |------------------------|----------|-----------|---------|------|
