@@ -27,7 +27,7 @@ If you find a cheaper way to earn a specific credit (e.g., a new free voucher pr
 
 ## Pull Request Process
 
-1. Fork the repo.
+1. Fork the repo. https://github.com/catinahat85/BITC-University
 2. Create your feature branch (`git checkout -b feature/NewTrack`).
 3. Commit your changes.
 4. Push to the branch.
