@@ -1,3 +1,11 @@
+---
+layout: default
+title: Data Science Track
+parent: Home
+nav_order: 7
+---
+
+
 <div align="center">
   <img src="../assets/data science.png" alt="Data Science Track Logo" width="250">
 </div>
