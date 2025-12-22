@@ -4,11 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-<style>
-.main-content {
-  max-width: 1200px !important; 
-}
-</style>
 
 <div align="center">
   <img src="/assets/logo.png" alt="BitC University Logo" width="850" style="max-width: 100%; height: auto;"/>
