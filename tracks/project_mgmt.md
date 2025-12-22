@@ -7,7 +7,7 @@ nav_order: 8
 
 
 <div align="center">
-  <img src="../assets/projectmgmt.png" alt="Project Management Track Logo" width="250">
+  <img src="../assets/projectmgmt.png" alt="Project Management Track Logo" width="800">
 </div>
 
 # Track: Project Management
