@@ -9,7 +9,7 @@ nav_order: 5
   <img src="../assets/cybersecurity (1).png" alt="Cybersecurity Track Logo" width="800">
 </div>
 
-# Track: Cybersecurity Operations
+# Track: Cybersecurity
 
 **Focus:** Blue Team, Network Defense, Compliance  
 **Est. Cost:** $253  
@@ -38,7 +38,7 @@ nav_order: 5
 
 ---
 
-## Electives (15 Credits)
+## Recommended Electives (15 Credits)
 
 | Course Name | Provider | Cost | Credits | Relevance |
 |-------------|----------|------|---------|-----------|
