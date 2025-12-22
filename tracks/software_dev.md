@@ -1,3 +1,11 @@
+---
+layout: default
+title: Software Dev Track
+parent: Home
+nav_order: 6
+---
+
+
 <div align="center">
   <img src="../assets/software.png" alt="Software Development Track Logo" width="250">
 </div>
