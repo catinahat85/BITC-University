@@ -1,3 +1,12 @@
+---
+layout: default
+title: Network Management Track
+parent: Home
+nav_order: 5
+---
+
+
+
 <div align="center">
   <img src="../assets/networking.png" alt="Networking Track Logo" width="250">
 </div>
