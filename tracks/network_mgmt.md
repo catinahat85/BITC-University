@@ -8,7 +8,7 @@ nav_order: 5
 
 
 <div align="center">
-  <img src="../assets/networking.png" alt="Networking Track Logo" width="250">
+  <img src="../assets/networking.png" alt="Networking Track Logo" width="800">
 </div>
 
 # Track: Network Management
