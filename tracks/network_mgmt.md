@@ -2,7 +2,7 @@
 layout: default
 title: Network Management Track
 parent: Home
-nav_order: 9
+nav_order: 7
 ---
 
 
