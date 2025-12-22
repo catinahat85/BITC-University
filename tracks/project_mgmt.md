@@ -22,7 +22,7 @@ nav_order: 8
 
 ---
 
-## Specialty Core (30 Credits)
+## Specialty Core (31 Credits)
 
 *Strategy: Cheapest track. Uses Google PM cert + Business Ops credits.*
 
