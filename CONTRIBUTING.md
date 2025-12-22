@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing
+nav_order: 9
+---
+
 # Contributing to BITC University
 
 First off, thanks for taking an interest in helping others hack their education. This project stays alive because the community finds new credit shortcuts and identifies when old ones stop working.

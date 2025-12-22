@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mission Statement
+parent: Home
+nav_order: 2
+---
+
 # **THE BITC MANIFESTO**
 
 ## **The Game Changed. Here's How to Win It.**

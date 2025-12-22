@@ -2,6 +2,10 @@ title: BITC University
 description: Open Source Degree Hacking
 remote_theme: just-the-docs/just-the-docs
 
+# GitHub Pages Settings
+baseurl: "/BITC-University"
+url: "https://catinahat85.github.io"
+
 # Navigation Settings
 search_enabled: true
 heading_anchors: true
@@ -10,3 +14,7 @@ heading_anchors: true
 aux_links:
   "Newlane University": "https://newlane.edu"
   "ACE National Guide": "https://www.acenet.edu/National-Guide/"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
