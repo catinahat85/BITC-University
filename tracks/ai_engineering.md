@@ -1,3 +1,11 @@
+---
+layout: default
+title: AI Track
+parent: Home
+nav_order: 3
+---
+
+
 <div align="center">
   <img src="../assets/AI.png" alt="AI Engineering Track Logo" width="250">
 </div>
