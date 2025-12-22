@@ -7,7 +7,7 @@ nav_order: 6
 
 
 <div align="center">
-  <img src="../assets/software.png" alt="Software Development Track Logo" width="250">
+  <img src="../assets/software.png" alt="Software Development Track Logo" width="800">
 </div>
 
 # Track: Software Development
