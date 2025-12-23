@@ -10,7 +10,7 @@ nav_order: 3
   <img src="../assets/AI.png" alt="AI Engineering Track Logo" width="800">
 </div>
 
-# Track: AI Engineering
+# Track: AI Practitioner
 
 **Focus:** Machine Learning, Deep Learning, Math  
 **Est. Cost:** $315  
@@ -22,19 +22,16 @@ nav_order: 3
 
 ---
 
-## Specialty Core (30 Credits)
+## Specialty Core (36 Credits)
 
-*Strategy: Heavy math focus + IBM's engineering certificate.*
+*Strategy: Heavy deep learning focus + IBM's engineering certificate. AI deployment and maintenance is in short supply*
 
 | Course / Certification | Provider | Est. Cost | Credits | Role |
 |------------------------|----------|-----------|---------|------|
-| Azure AI Fundamentals (AI-900) | Microsoft (Exam) | $99 | 1 | **Cert #1:** Enterprise AI context |
+| IBM AI Developer Professional | IBM (Coursera) | ~$196 | 15 | **Cert #1:** Enterprise AI context |
 | IBM AI Engineering Cert | IBM (Coursera) | ~$196 | 15 | **Cert #2:** Deep Learning, ML, PyTorch |
-| Microsoft AI and ML Engineering Professional Certificate | Coursera | ~$196| 6 | Deep Learning, ML, PyTorch |
-| BUS204: Business Statistics | Saylor | $5 | 3 | Data modeling stats |
 | PHIL102: Logic & Critical Thinking | Saylor | $5 | 3 | Decision trees/Logic |
 | CS302: Software Engineering | Saylor | $5 | 3 | System Design |
-| Information Systems | Modern States | $0 | 3 | Computing power context |
 
 ---
 
@@ -43,10 +40,9 @@ nav_order: 3
 | Course Name | Provider | Cost | Credits | Relevance |
 |-------------|----------|------|---------|-----------|
 | Natural Sciences | Modern States | $0 | 3 | The Scientific Method |
-| Precalculus | Modern States | $0 | 3 | Linear Algebra prep |
 | BUS206: Mgmt Info Systems | Saylor | $5 | 3 | Data management |
-| BUS303: Strategic IT | Saylor | $5 | 3 | AI Strategy |
-| Intro to Business | Saylor | $5 | 3 | Use-case identification |
+| Information Systems | Modern States | $0 | 3 | Computing power context |
+| Microsoft AI and ML Engineering Professional Certificate | Coursera | ~$196| 6 | Deep Learning, ML, PyTorch |
 
 ---
 
