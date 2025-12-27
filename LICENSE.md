@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contribute
-nav_order: 12
+title: License
+nav_order: 14
 ---
 
 
