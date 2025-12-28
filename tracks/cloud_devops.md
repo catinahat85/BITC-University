@@ -47,18 +47,34 @@ nav_order: 4
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certification
 
-| Month | Focus |
-|-------|-------|
-| Month 1 | Google Cloud Engineering (Coursera) |
-| Month 2-3 | IBM DevOps (Coursera) |
-| Month 4 | CS402 (Networking) & MIS |
-| Month 5 | Strategic IT & Ops Management |
-| Month 6 | Project Management |
-| Month 7-8 | Azure AZ-104 Study & Exam |
-| Month 9 | Clean up Electives |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+---
+### Recommended Capstone: AWS Solutions Architect Associate
+
+| | |
+|---|---|
+| **Provider** | Amazon Web Services |
+| **Cost** | $150 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+AWS Solutions Architect Associate is the gold standard for cloud roles. It's the most requested cloud certification in job postings worldwide. Your IBM DevOps & Engineering and Full Stack Cloud Development coursework provides approximately 60% coverage of exam topics. This cert proves you can design and deploy scalable systems on the dominant cloud platform. **This is your Shield**—validating that your degree comes with real architectural skills.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | CNCF (Cloud Native Computing Foundation) — Community Contributor |
+| **Cost** | **FREE** |
+| **Website** | [cncf.io](https://www.cncf.io/) |
+
+**Why join?** Contribute to open-source cloud-native projects (Kubernetes, Prometheus, etc.). No formal membership required—just start contributing on GitHub. Lists contributions on your profile and builds real credibility in the DevOps community.
 
 ---
+
+
 
 [← Back to All Tracks](../README.md#the-tracks)
