@@ -54,29 +54,29 @@ nav_order: 6
 
 > **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
 
-### Recommended Capstone: TensorFlow Developer Certificate
+### Recommended Capstone: Google Advanced Data Analytics Certificate
 
 | | |
 |---|---|
-| **Provider** | Google |
-| **Cost** | $100 |
+| **Provider** | Google (Coursera) |
+| **Cost** | ~$49-98 (1-2 months) |
 | **ACE Credit** | ❌ Not Eligible |
 
 **Why this certification?**
 
-The TensorFlow Developer Certificate is the industry standard for validating machine learning skills. It's Google-backed and globally recognized by employers hiring for ML/AI roles. Your IBM AI Engineering coursework covers PyTorch and deep learning fundamentals—TensorFlow certification proves you can work across both major ML frameworks, making you a more versatile candidate. **This is your Shield**—the proof that your degree is backed by real, demonstrable skills.
+The Google Advanced Data Analytics Certificate stacks directly on top of your Google Data Analytics foundation. It fills critical gaps by adding Python programming, regression analysis, and machine learning techniques to complement your R and SQL skills. This combination signals to employers that you can handle the full analytics pipeline from data wrangling to predictive modeling. **This is your Shield**—proof you can do the job, not just talk about it.
 
 ### Recommended Association
 
 | | |
 |---|---|
-| **Organization** | AI Accelerator Institute (AIAI) |
-| **Cost** | **FREE** (Insider membership) |
-| **Website** | [aiacceleratorinstitute.com](https://www.aiacceleratorinstitute.com/insider-membership-plan/) |
+| **Organization** | Data Science Foundation |
+| **Cost** | **FREE** (Individual membership) |
+| **Website** | [datascience.foundation](https://datascience.foundation/membership) |
 
-**Why join?** Free access to AI experts from Google, IBM, and Zoox. Includes templates, frameworks, case studies, and a Slack community. Adds credibility to your LinkedIn and resume at zero cost.
+**Why join?** Free individual membership since 2017. Includes a personal profile page, access to the data science community, and professional credentialing. Adds legitimacy to your data science identity.
 
 ---
----
+
 
 [← Back to All Tracks](../README.md#the-tracks)
