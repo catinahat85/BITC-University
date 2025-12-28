@@ -50,17 +50,62 @@ nav_order: 7
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certification
 
-| Month | Focus |
-|-------|-------|
-| Month 1 | Google IT Support Cert (Coursera) |
-| Month 2 | CS402 (Saylor) - *Aligns with networking theory* |
-| Month 3 | Cisco CCST Networking Exam |
-| Month 4 | MIS & Strategic IT |
-| Month 5 | Project Management |
-| Month 6-9 | Modern States Electives (Self-paced) |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+
+
+### Recommended Capstone (Choose Your Specialization):
+
+#### Option 1: Hardware Focus — CompTIA Network+
+
+| | |
+|---|---|
+| **Provider** | CompTIA |
+| **Cost** | $349 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+CompTIA Network+ is vendor-neutral and validates your ability to work with physical infrastructure, cabling, and hardware troubleshooting. It complements your CCNA's Cisco-specific content by proving you can work across any vendor's equipment. Ideal for roles focused on on-premise infrastructure and data center operations. **This is your Shield**—vendor-neutral proof of networking fundamentals.
 
 ---
 
+#### Option 2: Cloud Focus — AWS Cloud Practitioner
+
+| | |
+|---|---|
+| **Provider** | Amazon Web Services |
+| **Cost** | $100 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+AWS Cloud Practitioner is the lowest-cost, highest-demand option. It proves cloud networking awareness and opens the door to the AWS ecosystem. With 60% retention from the track, this is the easiest capstone to pass. Best for hybrid infrastructure roles where you'll manage both on-premise and cloud resources. **This is your Shield**—entry into the dominant cloud ecosystem.
+
+---
+
+#### Option 3: Virtualization Focus — VMware VCP-DCV
+
+| | |
+|---|---|
+| **Provider** | VMware |
+| **Cost** | $250* |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+VMware VCP-DCV is the gold standard for datacenter virtualization. Enterprise environments run on VMware, and this cert validates your ability to manage virtual infrastructure at scale. *Note: VMware training is technically required, but self-study workarounds exist via vSphere home labs. **This is your Shield**—the enterprise virtualization credential.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | IEEE Communications Society |
+| **Cost** | $29/year (IEEE member add-on) or $114/year (standalone) |
+| **Website** | [comsoc.org](https://www.comsoc.org/) |
+
+**Why join?** World's largest technical professional organization for networking and communications. Access to journals, conferences, and a global network of engineers. Student memberships available at reduced rates.
+
+---
 [← Back to All Tracks](../README.md#the-tracks)
