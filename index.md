@@ -67,13 +67,13 @@ Newlane is the engine that makes this possible. They replaced semesters with a *
 * **The Transfer:** Their policy allows transferring up to **75% of credits**, which is exactly what our tracks are designed to exploit.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coursera_logo_%282020%29.svg/500px-Coursera_logo_%282020%29.svg.png" height="40" alt="Coursera" style="margin: 10px;">
-  <img src="https://modernstates.org/wp-content/themes/modern-states/assets/img/ms-logo-inverse.svg" height="40" alt="Modern States" style="margin: 10px;">
-  <img src="https://www.saylor.org/wp-content/themes/saylorstrap/img/logos/logo_dark_large.svg" height="40" alt="Saylor Academy" style="margin: 10px;">
-  <img src="https://www.gstatic.com/cgc/google-cloud-logo.svg" height="40" alt="Google Cloud" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/500px-IBM_logo.svg.png" height="30" alt="IBM" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure" style="margin: 10px;">
-  <img src="https://cdn.aws.training/release/25c0332fe6174f4593d528750d838102/static/media/logo-color-dark.e2c9fdd2.svg" height="40" alt="AWS" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coursera_logo_%282020%29.svg/500px-Coursera_logo_%282020%29.svg.png" height="40" alt="Coursera" style="margin: 5px;">
+  <img src="https://modernstates.org/wp-content/themes/modern-states/assets/img/ms-logo-inverse.svg" height="40" alt="Modern States" style="margin: 5px;">
+  <img src="https://www.saylor.org/wp-content/themes/saylorstrap/img/logos/logo_dark_large.svg" height="40" alt="Saylor Academy" style="margin: 5px;">
+  <img src="https://www.gstatic.com/cgc/google-cloud-logo.svg" height="40" alt="Google Cloud" style="margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/500px-IBM_logo.svg.png" height="30" alt="IBM" style="margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure" style="margin: 5px;">
+  <img src="https://cdn.aws.training/release/25c0332fe6174f4593d528750d838102/static/media/logo-color-dark.e2c9fdd2.svg" height="40" alt="AWS" style="margin: 5px;">
 </p>
 
 ---
