@@ -50,17 +50,32 @@ nav_order: 8
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certification
 
-| Month | Focus |
-|-------|-------|
-| Month 1-3 | Google Project Management (Coursera) |
-| Month 4 | BUS402 Project Mgmt (Saylor) |
-| Month 5 | Operations Management |
-| Month 6 | Org Behavior & Leadership |
-| Month 7 | Business Law (CLEP) |
-| Month 8 | Financial Accounting (CLEP) |
-| Month 9 | Electives |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+
+### Recommended Capstone: PMI CAPM
+
+| | |
+|---|---|
+| **Provider** | Project Management Institute |
+| **Cost** | $225 (PMI member) / $300 (non-member) |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+The PMI Certified Associate in Project Management (CAPM) is respected across corporate and enterprise environments. Your Google Project Management Certificate satisfies the 23-hour training requirement entirely—it actually provides 100 hours of PMI-approved training, so there's no additional training cost. This PMI credential validates your PMBOK knowledge and signals to employers that you're serious about project management as a career. **This is your Shield**—PMI-backed validation of your project management fundamentals.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | PMI (Project Management Institute) |
+| **Cost** | $164 first year ($154 renewal + $10 application fee) |
+| **Website** | [pmi.org/membership](https://www.pmi.org/membership) |
+
+**Why join?** The gold standard PM association. Reduces CAPM exam cost by $75. Access to PMBOK guide, local chapters, job boards, and PDU opportunities. If you're pursuing CAPM, membership pays for itself immediately.
+
 
 ---
 
