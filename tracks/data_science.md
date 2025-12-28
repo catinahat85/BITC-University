@@ -50,17 +50,33 @@ nav_order: 6
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certification
 
-| Month | Focus |
-|-------|-------|
-| Month 1 | Azure Data Fundamentals (Exam) |
-| Month 2-4 | Google Data Analytics (Coursera) |
-| Month 5 | Business Statistics (Saylor) |
-| Month 6 | Calculus (CLEP) |
-| Month 7 | Macro/Micro Economics |
-| Month 8-9 | Psychology & Marketing |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
 
+### Recommended Capstone: TensorFlow Developer Certificate
+
+| | |
+|---|---|
+| **Provider** | Google |
+| **Cost** | $100 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+The TensorFlow Developer Certificate is the industry standard for validating machine learning skills. It's Google-backed and globally recognized by employers hiring for ML/AI roles. Your IBM AI Engineering coursework covers PyTorch and deep learning fundamentals—TensorFlow certification proves you can work across both major ML frameworks, making you a more versatile candidate. **This is your Shield**—the proof that your degree is backed by real, demonstrable skills.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | AI Accelerator Institute (AIAI) |
+| **Cost** | **FREE** (Insider membership) |
+| **Website** | [aiacceleratorinstitute.com](https://www.aiacceleratorinstitute.com/insider-membership-plan/) |
+
+**Why join?** Free access to AI experts from Google, IBM, and Zoox. Includes templates, frameworks, case studies, and a Slack community. Adds credibility to your LinkedIn and resume at zero cost.
+
+---
 ---
 
 [← Back to All Tracks](../README.md#the-tracks)
