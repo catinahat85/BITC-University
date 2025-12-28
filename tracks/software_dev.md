@@ -47,16 +47,31 @@ nav_order: 9
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certifications by Track
 
-| Month | Focus |
-|-------|-------|
-| Month 1-2 | Meta Front-End Cert (Coursera) |
-| Month 3-5 | IBM Full Stack Cert (Coursera) |
-| Month 6 | Software Engineering (Saylor) |
-| Month 7 | Applied Algebra |
-| Month 8 | Calculus (CLEP) |
-| Month 9 | Project Management & Ops |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+
+### Recommended Capstone: PCEP (Python Certified Entry-Level Programmer)
+
+| | |
+|---|---|
+| **Provider** | Python Institute |
+| **Cost** | $59 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+PCEP is a vendor-neutral, globally recognized certification that validates Python fundamentals. It's the best value capstone at just $59. Your IBM Full Stack Developer coursework uses Python throughout, giving you solid preparation. This cert proves to employers you have verified programming skills—not just course completions. **This is your Shield**—verified coding ability at the lowest cost.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | Python Software Foundation (PSF) |
+| **Cost** | **FREE** (Basic membership) or $99/year (Supporting membership with voting rights) |
+| **Website** | [python.org/psf/membership](https://www.python.org/psf/membership/) |
+
+**Why join?** Basic membership is free and shows commitment to the Python ecosystem. Supporting membership ($99) grants voting rights and directly funds Python development. Either way, it's a credibility signal on your resume.
 
 ---
 
