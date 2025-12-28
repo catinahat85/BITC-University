@@ -17,7 +17,7 @@ nav_order: 1
   <p>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
     <a href="https://newlane.edu"><img src="https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue" alt="Degree: Newlane Transfer"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Cost-%3C$2000_Total-green" alt="Cost: Under $2000"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cost-%3C$3500_Total-green" alt="Cost: Under $3500"></a>
   </p>
   
   <p><strong>Hack the debt. Build the shield. Get hired.</strong></p>
@@ -46,7 +46,7 @@ nav_order: 1
 
 **The System is Broken.** Traditional college demands $40,000+ and 4 years for a degree that doesn't guarantee a job. You need the degree to get past HR filters, but you need hard skills to actually get hired.
 
-**BITC University** is the roadmap to get both for under **$2,000**. We use the **"Shield Strategy"**:
+**BITC University** is the roadmap to get both for under **$3,500**. We use the **"Shield Strategy"**:
 
 1. **Hack the Cost:** Use the "aggregated credit" model to earn a nationally accredited degree for pennies on the dollar.
 2. **Build the Shield:** Prioritize industry-standard certifications (Google, Cisco, Microsoft) that prove technical competence.
