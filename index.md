@@ -34,9 +34,7 @@ nav_order: 1
 | [✅ The ACE Credit Advantage](#the-ace-credit-advantage) | How we validate every credit |
 | [📐 The Strategy](#the-strategy) | The 4-part system that makes it work |
 | [📚 The Universal Liberal Arts Core](#the-universal-liberal-arts-core-15-credits) | 15 free credits via CLEP |
-| [🛤️ The Tracks](#the-tracks) | 7 degree pathways to choose from |
 | [📋 Transfer Checklist](#transfer-checklist-newlane-policy-alignment) | Ensure your credits are accepted |
-| [⚠️ Disclaimer](#️-disclaimer--legal-notice) | Legal notice and risk disclosure |
 
 ---
 
