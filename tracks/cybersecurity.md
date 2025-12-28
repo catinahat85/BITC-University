@@ -50,17 +50,32 @@ nav_order: 5
 
 ---
 
-## 9-Month Roadmap
+# Capstone Certification
 
-| Month | Focus |
-|-------|-------|
-| Month 1-2 | Google Cybersecurity Cert (Coursera) |
-| Month 3 | Cisco CCST Exam study & attempt |
-| Month 4 | CS402 (Saylor) & Info Systems (CLEP) |
-| Month 5 | Business Law & Ethics (Saylor) |
-| Month 6 | Software Engineering & PM (Saylor) |
-| Month 7-9 | Electives (Self-paced) |
+> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+
+### Recommended Capstone: CompTIA Security+
+
+| | |
+|---|---|
+| **Provider** | CompTIA |
+| **Cost** | $349 |
+| **ACE Credit** | ❌ Not Eligible |
+
+**Why this certification?**
+
+CompTIA Security+ is the most recognized entry-level security certification and a baseline requirement for government and DoD cybersecurity positions. It's an HR filter crusher—many jobs won't even consider candidates without it. Your Google Cybersecurity Certificate, ISC2 CC, and Cisco CCST Cybersecurity coursework covers approximately 70% of the exam content. **This is your Shield**—the credential that gets your resume past automated filters.
+
+### Recommended Association
+
+| | |
+|---|---|
+| **Organization** | InfraGard (FBI Partnership) |
+| **Cost** | **FREE** |
+| **Website** | [infragard.org](https://www.infragard.org/) |
+
+**Why join?** FBI-affiliated public-private partnership. Free membership includes threat briefings, networking with security leaders, and access to intelligence bulletins. Requires U.S. citizenship and FBI background check. Exceptional resume credibility—shows you're vetted and serious about critical infrastructure protection.
+
+**Alternative:** OWASP (Open Web Application Security Project) — $50/year individual membership. Great for application security focus with 250+ local chapters worldwide.
 
 ---
-
-[← Back to All Tracks](../README.md#the-tracks)
