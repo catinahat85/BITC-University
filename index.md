@@ -33,7 +33,6 @@ nav_order: 1
 | [🎓 Why Newlane University](#why-newlane-university) | The engine that makes this possible |
 | [✅ The ACE Credit Advantage](#the-ace-credit-advantage) | How we validate every credit |
 | [📐 The Strategy](#the-strategy) | The 4-part system that makes it work |
-| [📚 The Universal Liberal Arts Core](#the-universal-liberal-arts-core-15-credits) | 15 free credits via CLEP |
 | [📋 Transfer Checklist](#transfer-checklist-newlane-policy-alignment) | Ensure your credits are accepted |
 
 ---
