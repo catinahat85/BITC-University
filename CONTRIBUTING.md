@@ -32,3 +32,27 @@ If you find a cheaper way to earn a specific credit (e.g., a new free voucher pr
 3. Commit your changes.
 4. Push to the branch.
 5. Open a Pull Request with a brief explanation of why the change is beneficial.
+
+
+## 📣 Call to Action: Experienced Professionals
+
+**Are you a working professional in one of these fields?**
+
+BITC University needs your help building real-world reference projects that students can use to demonstrate expertise.
+
+We're looking for:
+- **Business problem case studies** with sanitized data that students can solve
+- **Portfolio project ideas** that mirror actual workplace challenges
+- **Code review volunteers** to provide feedback on student submissions
+- **Mentorship connections** for students entering your industry
+
+**How to contribute:**
+1. Fork the BITC University repo
+2. Add your project idea or case study to the relevant track folder
+3. Submit a PR with your contribution
+
+By contributing, you help the next generation build portfolios that actually matter—not just toy projects, but solutions to real business problems that demonstrate job-ready skills.
+
+**Together, we build shields that work.**
+
+---
