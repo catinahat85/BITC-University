@@ -34,7 +34,7 @@ If you find a cheaper way to earn a specific credit (e.g., a new free voucher pr
 5. Open a Pull Request with a brief explanation of why the change is beneficial.
 
 
-## 📣 Call to Action: Experienced Professionals
+# 📣 Call to Action: Experienced Professionals
 
 **Are you a working professional in one of these fields?**
 
