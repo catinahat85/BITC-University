@@ -52,7 +52,7 @@ nav_order: 6
 
 # Capstone Certification
 
-> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+> **Note:** Capstone certifications are generally **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust. However the following is.
 
 ### Recommended Capstone: Google Advanced Data Analytics Certificate
 
@@ -60,7 +60,7 @@ nav_order: 6
 |---|---|
 | **Provider** | Google (Coursera) |
 | **Cost** | ~$49-98 (1-2 months) |
-| **ACE Credit** | ❌ Not Eligible |
+| **ACE Credit** | YES - 10 |
 
 **Why this certification?**
 
