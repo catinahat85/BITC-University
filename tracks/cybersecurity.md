@@ -60,7 +60,7 @@ nav_order: 5
 |---|---|
 | **Provider** | CompTIA |
 | **Cost** | $349 |
-| **ACE Credit** | ❌ Not Eligible |
+| **ACE Credit** | Possible - 2 to 3 |
 
 **Why this certification?**
 
