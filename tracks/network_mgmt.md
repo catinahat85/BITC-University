@@ -109,6 +109,8 @@ VMware VCP-DCV is the gold standard for datacenter virtualization. Enterprise en
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## Network Management Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |

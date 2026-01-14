@@ -79,6 +79,8 @@ The PMI Certified Associate in Project Management (CAPM) is respected across cor
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## Project Management Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |

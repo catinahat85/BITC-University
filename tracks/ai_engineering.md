@@ -77,6 +77,8 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## AI Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |

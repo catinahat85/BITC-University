@@ -75,6 +75,8 @@ AWS Solutions Architect Associate is the gold standard for cloud roles. It's the
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## Cloud & DevOps Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |

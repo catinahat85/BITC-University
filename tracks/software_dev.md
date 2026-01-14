@@ -75,6 +75,8 @@ PCEP is a vendor-neutral, globally recognized certification that validates Pytho
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## Software Dev Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
