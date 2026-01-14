@@ -216,7 +216,7 @@ Upon completion, you'll hold:
 - **Accredited** by MFHEA (Malta/EU) - EQF Level 7, ECTS Credits
 - 100% online
 - NACES FCEs evaluate as US Master Equivalent
-- [SMC MBA Info]([https://www.wgu.edu](https://smceducation.com/executive-mba-online/))
+- [Signum Magnum College Executive MBA Info](https://smceducation.com/executive-mba-online/)
 
 ---
 
