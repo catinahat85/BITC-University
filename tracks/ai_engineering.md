@@ -77,14 +77,13 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 
 ---
 
-Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+# Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
 
 ## AI Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | ENEB/Universidad Isabel I | MBA + Master in AI for Business | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; evaluated as graduate credits (not Master's equivalent) |
-| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Digital transformation focus; evaluated as graduate credits (not Master's equivalent) |
 | UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Business & Finance | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Non-CBE format; Spanish language |
 | UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Health Sciences | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Spanish language |
 | Udacity/Woolf University | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - EU credential | 12 Nanodegrees + capstone; recognized in 60+ countries |
