@@ -6,7 +6,7 @@ parent: Home
 ---
 
 <div align="center">
-  <img src="../assets/Business.jpg" alt="Business Leader Logo" width="800">
+  <img src="../assets/business.jpg" alt="Business Leader Logo" width="800">
 </div>
 
 
