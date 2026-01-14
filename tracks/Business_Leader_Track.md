@@ -265,8 +265,8 @@ For aggressive learners committing 20+ hours/week:
 | 4 | Saylor: Ethics, Org Behavior, Communications | 9 |
 | 5 | Saylor: Operations, Project Mgmt, Statistics | 9 |
 | 6-7 | Google PM + Salesforce Sales Ops | 10 |
-| 8-9 | Newlane Residency (20 credits) | 20 |
-| **Total** | | **78 credits in 9 months** |
+| 8-9 | Newlane Residency (20 credits) | 60 |
+| **Total** | | **138 credits in 9 months** |
 
 ---
 
