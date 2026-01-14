@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Business Leader Track
-nav_order: 15
 parent: Home
+nav_order: 15
 ---
 
 <div align="center">
