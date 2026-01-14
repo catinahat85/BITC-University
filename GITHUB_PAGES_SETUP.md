@@ -46,7 +46,15 @@ After enabling Pages:
 
 ## Current Configuration Status
 
-✅ Workflow file configured correctly
+✅ Workflow file configured correctly (with auto-cancel for stuck deployments)
 ✅ Jekyll config ready
 ✅ File structure valid
-❌ **GitHub Pages not enabled** ← THIS IS THE ISSUE
+✅ CNAME file added for custom domain
+✅ **GitHub Pages now enabled**
+
+## Additional Fix Applied
+
+Updated `.github/workflows/jekyll.yml` to automatically cancel stuck deployments:
+- Changed `cancel-in-progress: false` → `cancel-in-progress: true`
+- This prevents errors when multiple deployments try to run simultaneously
+- Resolves: "Deployment request failed due to in progress deployment"
