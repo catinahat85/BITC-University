@@ -124,6 +124,13 @@ Choose **one path** based on your career goals:
 
 ---
 
+
+## 💼 Phase 5: Newlane Degree (30 Credits)
+
+
+---
+
+
 ##  Total Cost Summary
 
 | Component | Low Estimate | High Estimate |
@@ -143,7 +150,7 @@ Upon completion, you'll hold:
 
 | Credential | Issuer | Value |
 |------------|--------|-------|
-| **B.S. in Business Administration** | Newlane University | Nationally accredited degree |
+| **B.A. in Liberal Arts, Business Administration** | Newlane University | Nationally accredited degree |
 | **Google Project Management Certificate** | Google | PMI-accredited, 100+ PDUs toward CAPM/PMP |
 | **Salesforce Sales Operations Certificate** | Salesforce/Coursera | CRM & Sales Cloud proficiency |
 | **Meta/IBM Certificates** (Path B) | Meta/IBM | Industry-recognized |
