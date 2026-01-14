@@ -7,7 +7,6 @@ parent: Home
 
 # Business Leader Track
 
-[![Degree: Newlane Transfer](https://img.shields.io/badge/Degree-Newlane_Transfer_Ready-blue)](https://newlane.edu) [![Cost: Under $2000](https://img.shields.io/badge/Cost-%3C$2000_Total-green)](#) [![Focus: Entrepreneurship](https://img.shields.io/badge/Focus-Entrepreneurship_%26_Management-orange)](#)
 
 **Build the business acumen. Lead the startup. Get hired.**
 
