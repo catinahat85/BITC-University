@@ -77,4 +77,19 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 
 ---
 
+## AI Track
+
+| School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
+|--------|---------|-------------|---------------|---------------|-------------|------|
+| ENEB/Universidad Isabel I | MBA + Master in AI for Business | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; evaluated as graduate credits (not Master's equivalent) |
+| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Digital transformation focus; evaluated as graduate credits (not Master's equivalent) |
+| UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Business & Finance | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Non-CBE format; Spanish language |
+| UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Health Sciences | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Spanish language |
+| Udacity/Woolf University | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - EU credential | 12 Nanodegrees + capstone; recognized in 60+ countries |
+| UNED (Universidad Nacional de Educación a Distancia) | Master in AI: Principles, Methods & Applications | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Advanced AI focus; Spanish language |
+| Western Governors University | MS in AI Engineering, Software Engineering | $4,385 | $8,770 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | Concentration for Software Engineering Program |
+| UNED | Master in Research in Artificial Intelligence | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; research-focused AI |
+
+---
+
 [← Back to All Tracks](../README.md#the-tracks)

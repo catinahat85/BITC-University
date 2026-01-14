@@ -108,4 +108,14 @@ VMware VCP-DCV is the gold standard for datacenter virtualization. Enterprise en
 **Why join?** World's largest technical professional organization for networking and communications. Access to journals, conferences, and a global network of engineers. Student memberships available at reduced rates.
 
 ---
+
+## Network Management Track
+
+| School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
+|--------|---------|-------------|---------------|---------------|-------------|------|
+| UNED (Universidad Nacional de Educación a Distancia) | Master in Communication, Networks & Content Mgmt | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Network infrastructure; Spanish language |
+| Western Governors University | MS in Information Technology Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | General Information Technology with focus on managing IT Teams |
+
+---
+
 [← Back to All Tracks](../README.md#the-tracks)
