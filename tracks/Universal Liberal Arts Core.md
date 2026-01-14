@@ -5,6 +5,10 @@ parent: Home
 nav_order: 2
 ---
 
+<div align="center">
+  <img src="../assets/LAC.png" alt="Liberal Arts Core" width="800">
+</div>
+
 ## The Universal Liberal Arts Core (15 Credits)
 
 *Required for ALL tracks. Completed via Modern States (Free).*
