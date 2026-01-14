@@ -52,7 +52,7 @@ nav_order: 7
 
 # Capstone Certification
 
-> **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
+> **Note:** Capstone certifications are **not generally ACE credit eligible** and do not transfer as college credit. However they are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
 
 
 ### Recommended Capstone (Choose Your Specialization):
