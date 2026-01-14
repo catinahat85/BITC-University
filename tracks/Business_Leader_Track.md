@@ -5,6 +5,11 @@ nav_order: 15
 parent: Home
 ---
 
+<div align="center">
+  <img src="../assets/Business.jpg" alt="Business Leader Logo" width="800">
+</div>
+
+
 # Business Leader Track
 
 
