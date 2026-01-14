@@ -80,7 +80,7 @@ CompTIA Security+ is the most recognized entry-level security certification and 
 
 ---
 
-Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+# Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
 
 ## Cybersecurity Track
 
