@@ -79,3 +79,15 @@ CompTIA Security+ is the most recognized entry-level security certification and 
 **Alternative:** OWASP (Open Web Application Security Project) — $50/year individual membership. Great for application security focus with 250+ local chapters worldwide.
 
 ---
+
+## Cybersecurity Track
+
+| School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
+|--------|---------|-------------|---------------|---------------|-------------|------|
+| Western Governors University | MS in Cybersecurity & Information Assurance | $4,700 | $9,400 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | 63% finish in 18 months; includes certs |
+| Universidad De Sevilla | Master in Cybersecurity | €3,453 | €3,453 | Universidad De Sevilla - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Defensive Strategy; Spanish language, evaluated as graduate credits (not Master's equivalent) |
+| UNED (Universidad Nacional de Educación a Distancia) | Master in Cybersecurity | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - ECE or WES | Advanced Cybersecurity focus; Spanish language |
+
+---
+
+[← Back to All Tracks](../README.md#the-tracks)

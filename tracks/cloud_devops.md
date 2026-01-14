@@ -75,6 +75,16 @@ AWS Solutions Architect Associate is the gold standard for cloud roles. It's the
 
 ---
 
+## Cloud & DevOps Track
 
+| School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
+|--------|---------|-------------|---------------|---------------|-------------|------|
+| UNIA (Universidad Internacional de Andalucía) | Master in Digital Transformation | $1,500 | $3,000 | Spanish Public University - Official Master | Yes - WES or ECE | Business digital strategy; Spanish language |
+| UNED (Universidad Nacional de Educación a Distancia) | Master in Systems & Control Engineering | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Systems engineering; Spanish language |
+| Western Governors University | MS in DevOps Engineering, Software Engineering | $4,385 | $8,770 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | Concentration for Software Engineering Program |
+| Western Governors University | MS in Computer Science | $3,985 | $7,970 | NWCCU (US Regional) | No - US Regionally Accredited | AI, algorithms, systems focus |
+| UNED | Master in Connected Industry | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; Industry 4.0/IoT focus |
+
+---
 
 [← Back to All Tracks](../README.md#the-tracks)

@@ -78,5 +78,16 @@ The Google Advanced Data Analytics Certificate stacks directly on top of your Go
 
 ---
 
+## Data Science Track
+
+| School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
+|--------|---------|-------------|---------------|---------------|-------------|------|
+| ENEB/Universidad Isabel I | MBA + Master in Finance | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Financial analysis focus; evaluated as graduate credits (not Master's equivalent) |
+| ENEB/Universidad Isabel I | Master in AI for Business + Master in Big Data and Business Intelligence | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Financial analysis focus; evaluated as graduate credits (not Master's equivalent) |
+| UNIA (Universidad Internacional de Andalucía) | Master in Bioinformatics | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | Data-intensive; Spanish language |
+| Western Governors University | MS in Data Analytics | $4,565 | $9,130 | NWCCU (US Regional) | No - US Regionally Accredited | 61% finish in 20 months; 3 specializations |
+| UNED | Master in Data Science & Engineering | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; 60 ECTS |
+
+---
 
 [← Back to All Tracks](../README.md#the-tracks)
