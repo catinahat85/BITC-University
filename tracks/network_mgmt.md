@@ -77,7 +77,7 @@ CompTIA Network+ is vendor-neutral and validates your ability to work with physi
 |---|---|
 | **Provider** | Amazon Web Services |
 | **Cost** | $100 |
-| **ACE Credit** | ❌ Not Eligible |
+| **ACE Credit** | Eligible |
 
 **Why this certification?**
 
