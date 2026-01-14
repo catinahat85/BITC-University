@@ -125,7 +125,7 @@ Choose **one path** based on your career goals:
 ---
 
 
-## 💼 Phase 5: Newlane Degree (30 Credits)
+## 💼 Phase 5: Newlane Degree (60 Credits)
 
 
 ---
