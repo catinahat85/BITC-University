@@ -164,9 +164,9 @@ After completing your bachelor's, continue your education without the debt:
 | Master in Big Data & BI | ~$300 | 12 months | Data analytics focus |
 
 **ENEB Details:**
-- Degrees certified by Universidad Isabel I de Castilla (accredited Spanish university)
-- Evaluated by US FCEs (WES, ECE) as equivalent to US Master's
-- Accepted for PhD admission at some US universities
+- Degrees certified by Universidad Isabel I de Castilla (accredited Spanish university) as Titulo Propio
+- Evaluated by US FCEs (WES, ECE) as equivalent to completed Graduate Credits
+- Can be accepted for PhD admission at some US universities, **YMMV**
 - 100% online, self-paced
 - [degreeforum.net ENEB thread](https://www.degreeforum.net/mybb/Thread-ENEB-Master-Thread) — 380+ pages of discussion
 
@@ -176,20 +176,52 @@ After completing your bachelor's, continue your education without the debt:
 
 | Program | Cost | Duration | Accreditation |
 |---------|------|----------|---------------|
-| **MBA** | **$3,000*** | 2 years | NECHE (Regional) |
-| MS in Information Technology | $3,000* | 2 years | NECHE (Regional) |
+| **MBA** | **$3,500*** | 2 years | NECHE (Regional) |
 
 **HAU Details:**
-- *$3,000 limited-time offer for US students (Nashua, NH campus)*
+- *$3,500 limited-time offer for US students (Nashua, NH campus)*
 - **Regionally accredited** by New England Commission on Higher Education (NECHE)
 - 100% online option available
 - 11 courses + capstone project
-- Can add certificates in: Digital Marketing, Operational Excellence, International Business
+- Can add certificates in: Digital Marketing, Operational Excellence, International Business (Additional Cost)
 - [HAU MBA Info](https://www.hauniv.edu/business-technology-engineering/masters-business-administration)
 
 ---
 
-### Option 3: Stack Multiple Credentials
+### Option 3: Western Governors University University (WGU)
+
+| Program | Cost | Duration | Accreditation |
+|---------|------|----------|---------------|
+| **MBA** | **$4,805 per term*** | 6 Months term (Aggressive pace) | NWCCU (Regional) |
+| **MBA in IT Management** | **$4,805per term** | 6 Months term (Aggressive pace) | NWCCU (Regional) |
+| **MS in Management and Leadership** | **$4,805per term** | 6 Months term (Aggressive pace) | NWCCU (Regional) |
+
+**WGU Details:**
+- *$4,805 for US students only (Self-Paced 6 months terms)*
+- **Regionally accredited** by Northwest Commission on Colleges and Universities (NWCCU)
+- 100% online
+- Competency based, proctored exams.
+- Includes industry certifications
+- [WGU MBA Info](https://www.wgu.edu)
+
+---
+
+### Option 4: Signum Magnum College (SMC)
+
+| Program | Cost | Duration | Accreditation |
+|---------|------|----------|---------------|
+| **Executive MBA** | **$2,000** | 18 months, self paced | MFHEA (Malta/EU) - EQF Level 7 |
+
+**SMC Details:**
+- *$2,000 (Self-Paced )*
+- **Accredited** by MFHEA (Malta/EU) - EQF Level 7, ECTS Credits
+- 100% online
+- NACES FCEs evaluate as US Master Equivalent
+- [SMC MBA Info]([https://www.wgu.edu](https://smceducation.com/executive-mba-online/))
+
+---
+
+### Option 5: Stack Multiple Credentials
 
 | Credential | Cost | Time | Value |
 |------------|------|------|-------|
@@ -230,7 +262,7 @@ For aggressive learners committing 20+ hours/week:
 
 ---
 
-## 🚀 Career Paths
+## Career Paths
 
 | Role | Median Salary | Key Credentials |
 |------|--------------|-----------------|
@@ -251,7 +283,7 @@ For aggressive learners committing 20+ hours/week:
 - **Coursera certificates** require paid subscription (~$49/mo) but can be completed quickly
 - **Newlane** accepts up to 75% transfer credits; this track maxes that out
 - All credentials are **ACE-recommended** for guaranteed academic acceptance
-- **ENEB** degrees require FCE evaluation for US recognition
+- **ENEB** and **SMC** degrees require FCE evaluation for US recognition
 - **HAU** is regionally accredited — no FCE needed
 
 ---
