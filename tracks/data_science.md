@@ -78,6 +78,8 @@ The Google Advanced Data Analytics Certificate stacks directly on top of your Go
 
 ---
 
+Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
+
 ## Data Science Track
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
