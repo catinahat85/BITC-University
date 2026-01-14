@@ -150,9 +150,8 @@ Upon completion, you'll hold:
 
 ---
 
-# What's Next? Budget Master's Degrees
+# Go Further. Pursue a Masters Degree at a fraction of the cost of traditional school. Save more money and time if you can speak spanish
 
-After completing your bachelor's, continue your education without the debt:
 
 ### Option 1: ENEB (European Business School of Barcelona)
 
@@ -231,6 +230,8 @@ After completing your bachelor's, continue your education without the debt:
 | AWS Cloud Practitioner | ~$100 | 1 mo | Cloud fundamentals |
 
 ---
+
+
 
 ## 📋 Transfer Checklist
 
