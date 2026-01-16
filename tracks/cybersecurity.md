@@ -89,6 +89,15 @@ CompTIA Security+ is the most recognized entry-level security certification and 
 | Western Governors University | MS in Cybersecurity & Information Assurance | $4,700 | $9,400 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | 63% finish in 18 months; includes certs |
 | Universidad De Sevilla | Master in Cybersecurity | €3,453 | €3,453 | Universidad De Sevilla - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Defensive Strategy; Spanish language, evaluated as graduate credits (not Master's equivalent) |
 | UNED (Universidad Nacional de Educación a Distancia) | Master in Cybersecurity | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - ECE or WES | Advanced Cybersecurity focus; Spanish language |
+| UNISA | [Master of Science in Computing (98961)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Computing-(98961)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; research focus areas include cybersecurity |
+
+### Notes
+
+**Spanish Programs (UNED, Universidad De Sevilla):** Both programs are taught in Spanish and require Spanish language proficiency. UNED degrees may require a NACES member evaluation (such as WES or ECE) to be recognized for U.S. government jobs and some employers. Universidad De Sevilla offers a Titulo Propio, which evaluates as graduate credits rather than a full Master's equivalent.
+
+**WGU:** U.S. regionally accredited program with competency-based education (CBE) model, allowing faster completion for self-paced learners. Includes industry certifications in the curriculum.
+
+**UNISA:** South African institution offering research-focused master's programs at low cost. Online distance learning format with dissertation requirement.
 
 ---
 
