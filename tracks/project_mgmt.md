@@ -91,6 +91,19 @@ The PMI Certified Associate in Project Management (CAPM) is respected across cor
 | Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | 67% finish in 19 months; includes CAPM prep |
 | Elmwood Institute | MS in Leadership & Management | $900 | $900 | DEAC (US National) | No - NA accreditation | Ultra low-cost; 36 credits at $25/credit; accepts 50% transfer |
 | Signum Magnum College | Executive MBA | €2,000 | €5,000 | MFHEA (Malta/EU) - EQF Level 7 | Yes - EU credential | 90 ECTS; live online lectures; flexible tuition |
+| UNISA SBL | [Master of Business Administration (90070)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Business-Administration-(90070)) | ~$4,000 | ~$4,000 | South African Public University - Coursework + Dissertation | Yes - WES or ECE | Online via Graduate School of Business Leadership; 3 years work experience required |
+
+### Notes
+
+**ENEB Programs:** Offered via Universidad Isabel I as Titulo Propio degrees. These are evaluated by NACES members (WES, ECE) as graduate credits rather than full Master's equivalents. Very affordable dual-degree option.
+
+**U.S. Regionally Accredited (Hellenic American University, WGU):** No NACES evaluation needed for U.S. employers. Fully recognized for government jobs and most employers. Hellenic American University offers traditional cohort-based MBA, while WGU offers competency-based education (CBE) for faster completion.
+
+**Elmwood Institute:** DEAC (Distance Education Accrediting Commission) is U.S. national accreditation, not regional. While legitimate, some employers may prefer regional accreditation. Extremely low cost at $25/credit.
+
+**Signum Magnum College:** Malta-based EU accreditation (EQF Level 7). May require NACES evaluation for U.S. roles. Recognized across EU and internationally.
+
+**UNISA SBL:** South African institution offering MBA through Graduate School of Business Leadership. Requires 3 years of work experience for admission. Online distance learning format with both coursework and dissertation components. Higher cost than other UNISA programs but still competitive internationally.
 
 ---
 

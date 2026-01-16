@@ -90,6 +90,19 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 | UNED (Universidad Nacional de Educación a Distancia) | Master in AI: Principles, Methods & Applications | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Advanced AI focus; Spanish language |
 | Western Governors University | MS in AI Engineering, Software Engineering | $4,385 | $8,770 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | Concentration for Software Engineering Program |
 | UNED | Master in Research in Artificial Intelligence | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; research-focused AI |
+| UNISA | [Master of Science in Computing (98961)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Computing-(98961)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; research focus areas include AI/ML |
+
+### Notes
+
+**ENEB Programs:** Offered via Universidad Isabel I as Titulo Propio degrees. These are evaluated by NACES members (WES, ECE) as graduate credits rather than full Master's equivalents. Very affordable dual-degree option.
+
+**Spanish Programs (UNIA, UNED):** All Spanish programs require Spanish language proficiency and are taught entirely in Spanish. UNED and UNIA degrees may require NACES member evaluation for U.S. government jobs and some employers. Application processes can be challenging due to language barriers and documentation requirements.
+
+**Udacity/Woolf University:** Malta-based EU accreditation with project-based learning model. Recognized across EU and 60+ countries but may need evaluation for U.S. roles.
+
+**WGU:** U.S. regionally accredited with competency-based education (CBE) model for faster completion. NSA/DHS designation adds credibility for technical roles.
+
+**UNISA:** South African institution offering research-focused master's programs at low cost. Online distance learning format with dissertation requirement.
 
 ---
 

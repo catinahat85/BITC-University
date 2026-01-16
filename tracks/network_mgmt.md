@@ -117,6 +117,15 @@ VMware VCP-DCV is the gold standard for datacenter virtualization. Enterprise en
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | UNED (Universidad Nacional de Educación a Distancia) | Master in Communication, Networks & Content Mgmt | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Network infrastructure; Spanish language |
 | Western Governors University | MS in Information Technology Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | General Information Technology with focus on managing IT Teams |
+| UNISA | [Master of Science in Computing (98961)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Computing-(98961)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; research focus areas include networks |
+
+### Notes
+
+**Spanish Programs (UNED):** UNED programs require Spanish language proficiency and are taught entirely in Spanish. Degrees may require NACES member evaluation (WES or ECE) for U.S. government jobs and some employers. Application process can be challenging due to language barriers and documentation requirements.
+
+**WGU:** U.S. regionally accredited with competency-based education (CBE) model for faster completion. Strong focus on IT management and team leadership.
+
+**UNISA:** South African institution offering research-focused master's programs at low cost. Online distance learning format with dissertation requirement. Network specialization available within the Computing program.
 
 ---
 

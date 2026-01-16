@@ -86,6 +86,15 @@ AWS Solutions Architect Associate is the gold standard for cloud roles. It's the
 | Western Governors University | MS in DevOps Engineering, Software Engineering | $4,385 | $8,770 | NWCCU (US Regional) + NSA/DHS CAE-CD | No - US Regionally Accredited | Concentration for Software Engineering Program |
 | Western Governors University | MS in Computer Science | $3,985 | $7,970 | NWCCU (US Regional) | No - US Regionally Accredited | AI, algorithms, systems focus |
 | UNED | Master in Connected Industry | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; Industry 4.0/IoT focus |
+| UNISA | [Master of Science in Information Technology Management (90157)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Information-Technology-Management-(90157)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; focuses on IT strategy and infrastructure |
+
+### Notes
+
+**Spanish Programs (UNIA, UNED):** All Spanish programs require Spanish language proficiency and are taught entirely in Spanish. UNED and UNIA degrees may require NACES member evaluation for U.S. government jobs and some employers. Application processes can be challenging due to language barriers and documentation requirements.
+
+**WGU:** U.S. regionally accredited with competency-based education (CBE) model for faster completion. NSA/DHS designation adds credibility for technical roles. Multiple specializations available within the Software Engineering program.
+
+**UNISA:** South African institution offering research-focused master's programs at low cost. Online distance learning format with dissertation requirement. Strong focus on IT management and infrastructure strategy.
 
 ---
 

@@ -85,6 +85,15 @@ PCEP is a vendor-neutral, globally recognized certification that validates Pytho
 | Western Governors University | MS in Domain Driven Design, Software Engineering | $4,085 | $8,170 | NWCCU (US Regional) | No - US Regionally Accredited | Java or C# tracks; AWS & ITIL certs included |
 | Western Governors University | MS in Computer Science | $3,985 | $7,970 | NWCCU (US Regional) | No - US Regionally Accredited | AI, algorithms, systems focus |
 | UNED | Master in Software Engineering & IT Systems Research | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language |
+| UNISA | [Master of Science in Computing (98961)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Computing-(98961)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; research focus areas include software engineering |
+
+### Notes
+
+**Spanish Programs (UNED):** UNED programs require Spanish language proficiency and are taught entirely in Spanish. Degrees may require NACES member evaluation (WES or ECE) for U.S. government jobs and some employers. Application process can be challenging due to language barriers and documentation requirements. Proctored exams may be required.
+
+**WGU:** U.S. regionally accredited with competency-based education (CBE) model for faster completion. Multiple specializations and programming language tracks available (Java, C#). Includes industry certifications (AWS, ITIL) in curriculum.
+
+**UNISA:** South African institution offering research-focused master's programs at low cost. Online distance learning format with dissertation requirement. Software engineering specialization available within the Computing program.
 
 ---
 
