@@ -115,11 +115,12 @@ The Wharton Business Foundations Specialization is taught by faculty from the #1
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
+| Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; AI product focus; 14 Nanodegrees + capstone |
+| Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | 12 Nanodegrees + capstone; hands-on AI skills |
 | ENEB/Universidad Isabel I | MBA + Master in Project Management | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; evaluated as graduate credits (not Master's equivalent) |
 | Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
-| Western Governors University | MBA / MS in Management and Leadership | $4,805 | $9,610 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; includes certifications |
+| Western Governors University | MBA / MS in Management and Leadership | $4,805 | $5,500 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; includes certifications |
 | Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
-| UNED | Master in Business Administration | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language |
 
 ---
 
