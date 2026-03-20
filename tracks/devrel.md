@@ -117,10 +117,8 @@ Also consider:
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Technical credibility for DevRel |
-| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; marketing focus |
-| ENEB/Universidad Isabel I | MBA + Master in Corporate Communications | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; comms focus |
-| Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
-| Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
+| Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | Technical + program management depth |
+| Western Governors University | MS in Software Engineering | $4,085 | $8,170 | NWCCU (US Regional) | No - US Regionally Accredited | Deepens coding credibility for technical DevRel |
 
 ---
 

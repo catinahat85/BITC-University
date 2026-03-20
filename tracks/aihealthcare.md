@@ -117,10 +117,8 @@ Also consider:
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | 12 Nanodegrees + capstone; AI for Healthcare elective |
-| Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; product leadership |
-| ENEB/Universidad Isabel I | MBA + Master in AI for Business | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; AI focus |
-| Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
-| Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer |
+| Western Governors University | MS in Data Analytics | $4,565 | $9,130 | NWCCU (US Regional) | No - US Regionally Accredited | Quantitative skills for clinical data |
+| Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | Health IT systems management |
 
 ---
 

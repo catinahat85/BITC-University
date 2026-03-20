@@ -83,7 +83,6 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
-| ENEB/Universidad Isabel I | MBA + Master in AI for Business | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; evaluated as graduate credits (not Master's equivalent) |
 | UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Business & Finance | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Non-CBE format; Spanish language |
 | UNIA (Universidad Internacional de Andalucía) | Master in AI Applied to Health Sciences | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | New 2025-26 program; Spanish language |
 | Udacity/Woolf University | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - EU credential | 12 Nanodegrees + capstone; recognized in 60+ countries |
@@ -93,8 +92,6 @@ The TensorFlow Developer Certificate is the industry standard for validating mac
 | UNISA | [Master of Science in Computing (98961)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Computing-(98961)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; research focus areas include AI/ML |
 
 ### Notes
-
-**ENEB Programs:** Offered via Universidad Isabel I as Titulo Propio degrees. These are evaluated by NACES members (WES, ECE) as graduate credits rather than full Master's equivalents. Very affordable dual-degree option.
 
 **Spanish Programs (UNIA, UNED):** All Spanish programs require Spanish language proficiency and are taught entirely in Spanish. UNED and UNIA degrees may require NACES member evaluation for U.S. government jobs and some employers. Application processes can be challenging due to language barriers and documentation requirements.
 

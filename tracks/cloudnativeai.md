@@ -113,10 +113,8 @@ The KCNA validates your foundational Kubernetes and cloud-native knowledge—ess
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | 12 Nanodegrees + capstone; hands-on AI skills |
-| Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; AI product leadership |
-| ENEB/Universidad Isabel I | MBA + Master in AI for Business | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; AI focus |
-| Western Governors University | MS in Data Analytics | $4,805 | $5,500 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based |
-| Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
+| Western Governors University | MS in Data Analytics | $4,805 | $5,500 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; 3 specializations |
+| Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | Cloud infrastructure & DevOps context |
 
 ---
 

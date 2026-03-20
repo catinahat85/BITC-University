@@ -86,7 +86,7 @@ The PMI Certified Associate in Project Management (CAPM) is respected across cor
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | ENEB/Universidad Isabel I | MBA + Master in Project Management | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Includes innovation & PM specialization; evaluated as graduate credits (not Master's equivalent) |
-| ENEB/Universidad Isabel I | MBA + Master in Human Resources | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Leadership & org development; evaluated as graduate credits (not Master's equivalent) |
+| ENEB/Universidad Isabel I | MBA + Master in Human Resources and Talent Management | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Leadership & org development; evaluated as graduate credits (not Master's equivalent) |
 | Hellenic American University | MBA (Remote) | $3,500 | $3,500 | NECHE (US Regional) - New Hampshire | No - US Regionally Accredited | Affordable US-accredited MBA; rolling cohorts |
 | Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | 67% finish in 19 months; includes CAPM prep |
 | Elmwood Institute | MS in Leadership & Management | $900 | $900 | DEAC (US National) | No - NA accreditation | Ultra low-cost; 36 credits at $25/credit; accepts 50% transfer |
