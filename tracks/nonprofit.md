@@ -113,8 +113,7 @@ This UC Davis specialization covers the complete fundraising lifecycle: prospect
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
-| Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; leadership skills |
-| ENEB/Universidad Isabel I | MBA + Master in Corporate Social Responsibility | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; social impact focus |
+| ENEB/Universidad Isabel I | MBA + Master in Team Management and Leadership | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; nonprofit leadership & team development |
 | Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
 | Western Governors University | MS in Management and Leadership | $4,805 | $5,500 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; leadership focus |
 | Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |

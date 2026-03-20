@@ -84,16 +84,12 @@ The Google Advanced Data Analytics Certificate stacks directly on top of your Go
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
-| ENEB/Universidad Isabel I | MBA + Master in Finance | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Financial analysis focus; evaluated as graduate credits (not Master's equivalent) |
-| ENEB/Universidad Isabel I | Master in AI for Business + Master in Big Data and Business Intelligence | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Financial analysis focus; evaluated as graduate credits (not Master's equivalent) |
 | UNIA (Universidad Internacional de Andalucía) | Master in Bioinformatics | €1,500 | €3,000 | Spanish Public University - Official Master | Yes - WES or ECE | Data-intensive; Spanish language |
 | Western Governors University | MS in Data Analytics | $4,565 | $9,130 | NWCCU (US Regional) | No - US Regionally Accredited | 61% finish in 20 months; 3 specializations |
 | UNED | Master in Data Science & Engineering | €1,200 | €2,500 | Spanish Public University - Official Master | Yes - WES or ECE | Spanish language; 60 ECTS |
 | UNISA | [Master of Science in Statistics (98982)](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master's-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Statistics-(98982)) | ~$2,500 | ~$2,500 | South African Public University - Research/Dissertation | Yes - WES or ECE | Online distance learning; analytics and statistical modeling focus |
 
 ### Notes
-
-**ENEB Programs:** Offered via Universidad Isabel I as Titulo Propio degrees. These are evaluated by NACES members (WES, ECE) as graduate credits rather than full Master's equivalents. Very affordable dual-degree option.
 
 **Spanish Programs (UNIA, UNED):** All Spanish programs require Spanish language proficiency and are taught entirely in Spanish. UNED and UNIA degrees may require NACES member evaluation for U.S. government jobs and some employers. Application processes can be challenging due to language barriers and documentation requirements.
 

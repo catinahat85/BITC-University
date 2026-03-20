@@ -122,11 +122,9 @@ Free/cheaper alternatives:
 
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
-| Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; thought leadership |
-| ENEB/Universidad Isabel I | MBA + Master in Corporate Communications | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; comms focus |
-| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; platform focus |
-| Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
-| Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer |
+| Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | AI-enhanced content creation; future-proof skills |
+| ENEB/Universidad Isabel I | MBA + Master in Coaching and Mindfulness | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; executive coaching & facilitation depth |
+| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing and Analytics | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; platform growth & audience analytics |
 
 ---
 

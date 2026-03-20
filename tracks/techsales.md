@@ -118,8 +118,8 @@ Also consider:
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | Udacity/Woolf | MBA in AI Product Management | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | Project-based; AI product sales |
-| ENEB/Universidad Isabel I | MBA + Master in Sales & Commercial Management | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; sales focus |
-| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; GTM focus |
+| ENEB/Universidad Isabel I | MBA + Master in Sales Management and Marketing | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; enterprise sales & GTM depth |
+| ENEB/Universidad Isabel I | MBA + Master in Digital Marketing and Analytics | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; demand gen & pipeline analytics |
 | Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
 | Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
 

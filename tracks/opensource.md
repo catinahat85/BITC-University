@@ -114,10 +114,8 @@ The LFCA validates your Linux fundamentals and IT skills—the foundation for an
 | School | Program | Target Cost | High End Cost | Accreditation | NACES Eval? | Note |
 |--------|---------|-------------|---------------|---------------|-------------|------|
 | Udacity/Woolf | MS in Artificial Intelligence | $3,500 | $5,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - 60+ countries | 12 Nanodegrees + capstone; technical credibility |
-| ENEB/Universidad Isabel I | MBA + Master in Big Data & Business Intelligence | $300 | $600 | Universidad Isabel I (Spain) - Titulo Propio, ECTS credits | Yes - ECE or WES as Graduate Credits | Dual degree; data focus |
-| Western Governors University | MS in IT Management | $4,805 | $5,500 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; includes certs |
-| Signum Magnum College | Executive MBA | $2,000 | $2,000 | MFHEA (Malta/EU) - EQF Level 7, ECTS | Yes - NACES as Master's equivalent | 18 months self-paced |
-| Hellenic American University | MBA | $3,500 | $3,500 | NECHE (US Regional) | No - US Regionally Accredited | Limited-time offer; 100% online |
+| Western Governors University | MS in IT Management | $4,080 | $8,160 | NWCCU (US Regional) | No - US Regionally Accredited | Competency-based; systems & community management |
+| Western Governors University | MS in Software Engineering | $4,085 | $8,170 | NWCCU (US Regional) | No - US Regionally Accredited | Deepens open source contribution credibility |
 
 ---
 
