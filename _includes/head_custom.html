@@ -1,0 +1,147 @@
+<!-- BITC University: Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+
+<!-- BITC University: Theme styles (inline for reliability) -->
+<style>
+/* === DARK BASE === */
+html, body { background-color: #090e1a !important; color: #c9d8f0 !important; }
+.side-bar, .site-header, .main-header, .site-nav, .nav-list, .site-footer { background-color: #0b1120 !important; color: #c9d8f0 !important; }
+.main-content-wrap, .page-content, .main-content, .content { background-color: #090e1a !important; color: #c9d8f0 !important; }
+h1, h2, h3, h4, h5, h6 { color: #e8f4ff !important; }
+a { color: #38bdf8 !important; }
+a:hover { color: #00d4ff !important; }
+.side-bar, .site-header, .main-header { border-color: #1a2744 !important; }
+table { background-color: #0f1829 !important; color: #c9d8f0 !important; }
+td, th { border-color: #1a2744 !important; color: #c9d8f0 !important; }
+.search-results, .search-result { background-color: #0f1829 !important; color: #c9d8f0 !important; border-color: #1a2744 !important; }
+code { background-color: rgba(0,212,255,0.08) !important; color: #00d4ff !important; }
+pre, pre code { background-color: #0d1117 !important; color: #c9d8f0 !important; }
+
+/* === CSS TOKENS === */
+:root {
+  --bitc-cyan:      #00d4ff;
+  --bitc-glow-sm:   0 0 12px rgba(0,212,255,0.35);
+  --bitc-glow-md:   0 0 24px rgba(0,212,255,0.35), 0 0 48px rgba(0,212,255,0.15);
+  --bitc-anim-fast: 150ms;
+  --bitc-anim-base: 300ms;
+  --bitc-anim-slow: 600ms;
+  --bitc-ease:      cubic-bezier(0.4,0,0.2,1);
+  --bitc-ease-out:  cubic-bezier(0,0,0.2,1);
+}
+
+/* === TYPOGRAPHY === */
+h1, h2 { font-family:"Space Grotesk","Inter",sans-serif; font-weight:700; letter-spacing:-0.02em; }
+h3, h4, h5, h6 { font-family:"Inter",sans-serif; font-weight:600; }
+.main-content h1 { position:relative; padding-bottom:0.5rem; }
+.main-content h1::after { content:""; position:absolute; bottom:0; left:0; width:3rem; height:2px; background:linear-gradient(90deg,var(--bitc-cyan),transparent); box-shadow:var(--bitc-glow-sm); }
+.main-content a { color:var(--bitc-cyan); text-decoration-color:rgba(0,212,255,0.3); text-underline-offset:3px; transition:color var(--bitc-anim-fast) var(--bitc-ease), text-decoration-color var(--bitc-anim-fast) var(--bitc-ease); }
+.main-content a:hover { color:#fff !important; }
+
+/* === SIDEBAR === */
+.side-bar { border-right:1px solid #1a2744; background:#0b1120 !important; background-image:linear-gradient(180deg,#0c1325 0%,#090e1a 100%) !important; position:relative; overflow:hidden; }
+.side-bar::after { content:""; position:absolute; bottom:1.5rem; left:50%; transform:translateX(-50%); width:80%; height:60px; background:url("/assets/logo.png") center/contain no-repeat; opacity:0.07; pointer-events:none; }
+.site-header .site-title { font-family:"Space Grotesk",sans-serif; font-weight:700; font-size:1.05rem; letter-spacing:0.04em; text-transform:uppercase; color:var(--bitc-cyan) !important; text-shadow:var(--bitc-glow-sm); transition:text-shadow var(--bitc-anim-base) var(--bitc-ease); }
+.site-header .site-title:hover { text-shadow:var(--bitc-glow-md); }
+.nav-list-link { border-radius:6px; border-left:2px solid transparent; transition:background-color var(--bitc-anim-fast) var(--bitc-ease), color var(--bitc-anim-fast) var(--bitc-ease), border-left-color var(--bitc-anim-fast) var(--bitc-ease); }
+.nav-list-link:hover { background-color:rgba(0,212,255,0.07); border-left-color:var(--bitc-cyan); color:#e8f4ff !important; }
+.nav-list-link.active { background:linear-gradient(90deg,rgba(0,212,255,0.12) 0%,transparent 100%); border-left-color:var(--bitc-cyan); color:var(--bitc-cyan) !important; font-weight:600; }
+
+/* === HEADER === */
+.site-header { border-bottom:1px solid #1a2744; background:#0b1120 !important; background-size:200% 100%; background-image:linear-gradient(90deg,#0b1120 0%,#0e1a30 40%,#0b1120 100%) !important; animation:header-shimmer 8s ease-in-out infinite alternate; }
+@keyframes header-shimmer { 0%{background-position:0% 50%} 100%{background-position:100% 50%} }
+.site-header .site-title::before { content:"▐▐▐▐▐"; font-size:0.55rem; letter-spacing:1px; color:var(--bitc-cyan); opacity:0.7; margin-right:0.5rem; vertical-align:middle; animation:eq-pulse 1.2s ease-in-out infinite alternate; display:inline-block; }
+@keyframes eq-pulse { 0%{letter-spacing:1px;opacity:0.5;transform:scaleY(0.7)} 50%{letter-spacing:2px;opacity:0.9;transform:scaleY(1.2)} 100%{letter-spacing:1.5px;opacity:0.7;transform:scaleY(1)} }
+
+/* === ENTRANCE ANIMATION === */
+@keyframes bitc-fade-up { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:translateY(0)} }
+.main-content-wrap { animation:bitc-fade-up var(--bitc-anim-slow) var(--bitc-ease-out) both; }
+
+/* === TABLES === */
+.table-wrapper { border:1px solid #1a2744; border-radius:8px; overflow:hidden; box-shadow:0 4px 24px rgba(0,0,0,0.4); }
+.main-content table th { background:linear-gradient(90deg,#0f1d35,#111e38) !important; color:var(--bitc-cyan) !important; font-family:"Space Grotesk",sans-serif; font-weight:600; letter-spacing:0.05em; text-transform:uppercase; font-size:0.75rem; border-bottom:1px solid var(--bitc-cyan); }
+.main-content table tr:nth-child(even) td { background-color:#0f1d35 !important; }
+.main-content table tr:hover td { background-color:rgba(0,212,255,0.06) !important; }
+.main-content table tr { transition:background-color var(--bitc-anim-fast) var(--bitc-ease); }
+
+/* === SEARCH === */
+.search-input-wrap { border:1px solid #1a2744; border-radius:8px; transition:border-color var(--bitc-anim-fast) var(--bitc-ease), box-shadow var(--bitc-anim-fast) var(--bitc-ease); }
+.search-input-wrap:focus-within { border-color:var(--bitc-cyan); box-shadow:0 0 0 3px rgba(0,212,255,0.15),var(--bitc-glow-sm); }
+.search-input { font-family:"Inter",sans-serif; color:#e8f4ff; }
+.search-input::placeholder { color:#6b85a8; }
+.search-result-title { color:var(--bitc-cyan); }
+
+/* === CODE === */
+div.highlighter-rouge, figure.highlight { border:1px solid rgba(0,212,255,0.2); border-top-color:rgba(0,212,255,0.4); border-radius:8px; box-shadow:inset 0 1px 0 rgba(255,255,255,0.04),0 4px 16px rgba(0,0,0,0.5); }
+:not(pre)>code { background-color:rgba(0,212,255,0.08) !important; border:1px solid rgba(0,212,255,0.2); color:var(--bitc-cyan) !important; border-radius:4px; font-family:"JetBrains Mono",monospace; font-size:0.85em; padding:0.1em 0.4em; }
+
+/* === HR DIVIDERS === */
+.main-content hr { border:none; height:1px; background:linear-gradient(90deg,transparent 0%,var(--bitc-cyan) 20%,rgba(0,212,255,0.4) 50%,var(--bitc-cyan) 80%,transparent 100%); margin:2rem 0; animation:hr-pulse 3s ease-in-out infinite; }
+@keyframes hr-pulse { 0%,100%{opacity:0.6;box-shadow:0 0 6px rgba(0,212,255,0.35)} 50%{opacity:1;box-shadow:0 0 14px rgba(0,212,255,0.35),0 0 28px rgba(0,212,255,0.2)} }
+
+/* === TRACK IMAGES === */
+.main-content img[src*="/assets/"] { border-radius:8px; display:block; margin:0 auto 1.5rem; mix-blend-mode:screen; }
+
+/* === PARTNER LOGOS === */
+.partner-logos { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:1.5rem; padding:1rem 0; }
+.partner-logos img { height:32px; width:auto; object-fit:contain; filter:brightness(1.1) contrast(0.95); opacity:0.85; transition:opacity var(--bitc-anim-fast) var(--bitc-ease),filter var(--bitc-anim-fast) var(--bitc-ease); }
+.partner-logos img:hover { opacity:1; filter:brightness(1.2) contrast(1); }
+
+/* === SCROLLBAR === */
+::-webkit-scrollbar { width:6px; height:6px; }
+::-webkit-scrollbar-track { background:#090e1a; }
+::-webkit-scrollbar-thumb { background:#1a2744; border-radius:3px; }
+::-webkit-scrollbar-thumb:hover { background:var(--bitc-cyan); }
+
+/* === TOGGLE BUTTON === */
+#bitc-theme-toggle { position:fixed; top:0.85rem; right:1rem; z-index:10000; background:rgba(255,255,255,0.07); border:1px solid #1a2744; border-radius:999px; padding:0.35rem 0.7rem; cursor:pointer; font-size:1rem; line-height:1; color:inherit; transition:background var(--bitc-anim-fast) var(--bitc-ease),border-color var(--bitc-anim-fast) var(--bitc-ease); }
+#bitc-theme-toggle:hover { background:rgba(0,212,255,0.12); border-color:var(--bitc-cyan); box-shadow:var(--bitc-glow-sm); }
+#bitc-theme-toggle .bitc-icon-light { display:none; }
+
+/* === LIGHT MODE === */
+[data-theme="light"] { --bitc-cyan:#0077b6; --bitc-glow-sm:0 0 8px rgba(0,119,182,0.2); --bitc-glow-md:0 0 16px rgba(0,119,182,0.25); }
+[data-theme="light"] #bitc-theme-toggle { background:rgba(0,0,0,0.05); border-color:#d1d9e6; }
+[data-theme="light"] #bitc-theme-toggle .bitc-icon-dark { display:none; }
+[data-theme="light"] #bitc-theme-toggle .bitc-icon-light { display:inline; }
+[data-theme="light"] html, [data-theme="light"] body { background-color:#f4f6fb !important; color:#2d3748 !important; }
+[data-theme="light"] .side-bar, [data-theme="light"] .site-header, [data-theme="light"] .main-header { background-color:#eef1f7 !important; border-color:#d1d9e6 !important; }
+[data-theme="light"] .main-content-wrap, [data-theme="light"] .page-content, [data-theme="light"] .main-content { background-color:#f4f6fb !important; color:#2d3748 !important; }
+[data-theme="light"] h1, [data-theme="light"] h2, [data-theme="light"] h3, [data-theme="light"] h4, [data-theme="light"] h5, [data-theme="light"] h6 { color:#1a202c !important; }
+[data-theme="light"] a, [data-theme="light"] .main-content a { color:#0066aa !important; }
+[data-theme="light"] .site-header .site-title { color:#0077b6 !important; text-shadow:none; }
+[data-theme="light"] .site-header { animation:none; background-image:none !important; }
+[data-theme="light"] .main-content table th { background:linear-gradient(90deg,#dde6f5,#e6edf8) !important; color:#0077b6 !important; border-bottom-color:#0077b6; }
+[data-theme="light"] table { background-color:#fff !important; color:#2d3748 !important; }
+[data-theme="light"] td, [data-theme="light"] th { border-color:#d1d9e6 !important; color:#2d3748 !important; }
+[data-theme="light"] :not(pre)>code { background:rgba(0,119,182,0.08) !important; color:#0077b6 !important; }
+[data-theme="light"] .main-content hr { background:linear-gradient(90deg,transparent 0%,#0077b6 20%,#93c5fd 50%,#0077b6 80%,transparent 100%); animation:none; }
+[data-theme="light"] .main-content img[src*="/assets/"] { mix-blend-mode:normal; }
+[data-theme="light"] ::-webkit-scrollbar-track { background:#f4f6fb; }
+[data-theme="light"] ::-webkit-scrollbar-thumb { background:#c9d8f0; }
+
+/* === ACCESSIBILITY === */
+@keyframes bitc-fade-up-sm { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+@media (max-width:800px) { .site-header{background:#0b1120 !important;animation:none;} .main-content-wrap{animation-name:bitc-fade-up-sm;} #bitc-theme-toggle{top:0.5rem;right:0.5rem;} }
+@media (prefers-reduced-motion:reduce) { *,*::before,*::after{animation-duration:0.01ms !important;animation-iteration-count:1 !important;transition-duration:0.01ms !important;} }
+</style>
+
+<!-- BITC University: Anti-flash + toggle button -->
+<script>
+(function(){var s=localStorage.getItem('bitc-theme')||'dark';document.documentElement.setAttribute('data-theme',s);})();
+</script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var btn=document.createElement('button');
+  btn.id='bitc-theme-toggle';
+  btn.setAttribute('aria-label','Toggle dark/light mode');
+  btn.innerHTML='<span class="bitc-icon-dark" aria-hidden="true">&#9728;&#xFE0E;</span><span class="bitc-icon-light" aria-hidden="true">&#9790;&#xFE0E;</span>';
+  document.body.appendChild(btn);
+  btn.addEventListener('click',function(){
+    var c=document.documentElement.getAttribute('data-theme')||'dark';
+    var n=c==='dark'?'light':'dark';
+    document.documentElement.setAttribute('data-theme',n);
+    localStorage.setItem('bitc-theme',n);
+  });
+});
+</script>
