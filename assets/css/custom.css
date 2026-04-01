@@ -1,7 +1,7 @@
 /* BITC University — Custom Theme Overrides */
 
 /* =============================================================================
-   0. DARK BASE — deep navy over just-the-docs dark scheme
+   0. DARK BASE — full dark override (no color_scheme dependency)
    ============================================================================= */
 
 html, body {
@@ -9,21 +9,55 @@ html, body {
   color: #c9d8f0 !important;
 }
 
+/* Sidebar */
 .side-bar,
 .site-header,
-.main-header {
+.main-header,
+.site-nav,
+.nav-list,
+.site-footer {
   background-color: #0b1120 !important;
+  color: #c9d8f0 !important;
 }
 
+/* Main content area */
 .main-content-wrap,
 .page-content,
-.main-content {
+.main-content,
+.content {
   background-color: #090e1a !important;
   color: #c9d8f0 !important;
 }
 
+/* Links */
 a { color: #38bdf8 !important; }
 a:hover { color: #00d4ff !important; }
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #e8f4ff !important;
+}
+
+/* Borders */
+.side-bar, .site-header, .main-header {
+  border-color: #1a2744 !important;
+}
+
+/* Tables — default light backgrounds get overridden */
+table { background-color: #0f1829 !important; color: #c9d8f0 !important; }
+td, th { background-color: transparent; border-color: #1a2744 !important; color: #c9d8f0 !important; }
+
+/* Search results dropdown */
+.search-results,
+.search-result {
+  background-color: #0f1829 !important;
+  color: #c9d8f0 !important;
+  border-color: #1a2744 !important;
+}
+
+/* Inline code default light bg */
+code { background-color: rgba(0, 212, 255, 0.08) !important; color: #00d4ff !important; border-color: rgba(0, 212, 255, 0.2) !important; }
+pre, pre code { background-color: #0d1117 !important; color: #c9d8f0 !important; }
 
 /* =============================================================================
    1. TYPOGRAPHY
