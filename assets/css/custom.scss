@@ -4,6 +4,31 @@
 // Loaded after just-the-docs compiled CSS
 
 // =============================================================================
+// 0. DARK BASE — override just-the-docs dark scheme with deep navy palette
+// =============================================================================
+
+html, body {
+  background-color: #090e1a !important;
+  color: #c9d8f0 !important;
+}
+
+.side-bar,
+.site-header,
+.main-header {
+  background-color: #0b1120 !important;
+}
+
+.main-content-wrap,
+.page-content,
+.main-content {
+  background-color: #090e1a !important;
+  color: #c9d8f0 !important;
+}
+
+a { color: #38bdf8 !important; }
+a:hover { color: #00d4ff !important; }
+
+// =============================================================================
 // 1. TYPOGRAPHY
 // =============================================================================
 
