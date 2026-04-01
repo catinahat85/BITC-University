@@ -7,7 +7,7 @@ nav_order: 3
 
 
 <div align="center">
-  <img src="../assets/AI.png" alt="AI Engineering Track Logo" width="800">
+  <img src="/assets/AI.png" alt="AI Engineering Track Logo" width="800">
 </div>
 
 # Track: AI Practitioner

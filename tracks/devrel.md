@@ -6,7 +6,7 @@ nav_order: 20
 ---
 
 <div align="center">
-  <img src="../assets/devrel.jpg" alt="Developer Ecosystem & Community Logo" width="800">
+  <img src="/assets/devrel.jpg" alt="Developer Ecosystem & Community Logo" width="800">
 </div>
 
 # Track: Developer Ecosystem & Community

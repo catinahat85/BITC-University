@@ -6,7 +6,7 @@ nav_order: 22
 ---
 
 <div align="center">
-  <img src="../assets/vibecoder.jpg" alt="Ethical Vibe Coder & Debugger Logo" width="800">
+  <img src="/assets/vibecoder.jpg" alt="Ethical Vibe Coder & Debugger Logo" width="800">
 </div>
 
 # Track: Ethical Vibe Coder & Debugger

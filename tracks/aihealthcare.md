@@ -6,7 +6,7 @@ nav_order: 27
 ---
 
 <div align="center">
-  <img src="../assets/aihealthcare.jpg" alt="AI Healthcare Specialist Logo" width="800">
+  <img src="/assets/aihealthcare.jpg" alt="AI Healthcare Specialist Logo" width="800">
 </div>
 
 # Track: AI Healthcare Specialist
