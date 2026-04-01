@@ -44,15 +44,65 @@ html[data-theme="light"] {
 /* ===== RESET ===== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  /* Textured dark background - worn chalkboard / distressed concrete */
+  background-color: #0a0e1b;
+  background-image:
+    /* Fine dust particles and speckles */
+    radial-gradient(circle at 12% 43%, rgba(255,255,255,0.08) 1px, transparent 1px),
+    radial-gradient(circle at 87% 71%, rgba(255,255,255,0.07) 2px, transparent 2px),
+    radial-gradient(circle at 23% 88%, rgba(255,255,255,0.06) 1.5px, transparent 1.5px),
+    radial-gradient(circle at 71% 12%, rgba(255,255,255,0.09) 1px, transparent 1px),
+    radial-gradient(circle at 45% 35%, rgba(255,255,255,0.05) 2px, transparent 2px),
+    /* Smudges and weathering */
+    radial-gradient(ellipse 800px 600px at 20% 30%, rgba(100,100,110,0.15) 0%, transparent 40%),
+    radial-gradient(ellipse 900px 500px at 80% 70%, rgba(80,90,110,0.12) 0%, transparent 45%),
+    /* Scratch marks and wear patterns */
+    linear-gradient(120deg, transparent 24%, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.05) 26%, transparent 27%),
+    linear-gradient(45deg, transparent 20%, rgba(255,255,255,0.04) 21%, rgba(255,255,255,0.04) 22%, transparent 23%);
+  background-size:
+    380px 420px,
+    520px 680px,
+    440px 560px,
+    360px 440px,
+    600px 700px,
+    900px 800px,
+    1000px 900px,
+    2000px 2000px,
+    3000px 3000px;
+  background-attachment: fixed;
+  background-color: #0a0e1b;
+}
+
+html[data-theme="light"] {
+  background-color: #f4f6fb;
+  background-image:
+    /* Light speckles */
+    radial-gradient(circle at 12% 43%, rgba(0,0,0,0.04) 1px, transparent 1px),
+    radial-gradient(circle at 87% 71%, rgba(0,0,0,0.03) 2px, transparent 2px),
+    radial-gradient(circle at 23% 88%, rgba(0,0,0,0.03) 1.5px, transparent 1.5px),
+    radial-gradient(circle at 71% 12%, rgba(0,0,0,0.04) 1px, transparent 1px),
+    /* Light texture overlay */
+    radial-gradient(ellipse 800px 600px at 20% 30%, rgba(180,180,190,0.08) 0%, transparent 40%),
+    radial-gradient(ellipse 900px 500px at 80% 70%, rgba(160,160,170,0.06) 0%, transparent 45%);
+  background-size:
+    380px 420px,
+    520px 680px,
+    440px 560px,
+    360px 440px,
+    900px 800px,
+    1000px 900px;
+  background-attachment: fixed;
+}
 
 body {
   font-family: var(--sans);
-  background: var(--bg);
+  background: transparent;
   color: var(--text);
   font-size: 16px;
   line-height: 1.75;
-  transition: background var(--base), color var(--base);
+  transition: color var(--base);
   min-height: 100vh;
 }
 
