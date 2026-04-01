@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} — {% endif %}BITC University</title>
+  <meta name="description" content="BITC University — Open Source Degree Hacking. Hack the debt. Build the shield. Get hired.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script>
+    // Anti-flash: apply theme before first paint
+    (function(){
+      var t = localStorage.getItem('bitc-theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+</head>
+<body>
+
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <div class="site-wrapper">
+
+    <!-- ===== SIDEBAR ===== -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <a href="/" class="brand">
+          <span class="brand-eq" aria-hidden="true">▐▐▐▐▐</span>
+          <span class="brand-name">BITC University</span>
+        </a>
+      </div>
+
+      <nav class="sidebar-nav" aria-label="Site navigation">
+        <a href="/" class="nav-link{% if page.url == '/' %} active{% endif %}">Home</a>
+
+        <div class="nav-section-label">Pages</div>
+        <a href="/mission-statement/" class="nav-link{% if page.url == '/mission-statement/' %} active{% endif %}">Mission Statement</a>
+        <a href="/disclaimer/" class="nav-link{% if page.url == '/disclaimer/' %} active{% endif %}">Disclaimer</a>
+
+        <div class="nav-section-label">Tracks</div>
+        {% for track in collections.tracks %}
+        <a href="{{ track.url }}" class="nav-link{% if page.url == track.url %} active{% endif %}">
+          {{ track.data.title }}
+        </a>
+        {% endfor %}
+
+        <div class="nav-section-label">Links</div>
+        <a href="https://newlane.edu" class="nav-link external" target="_blank" rel="noopener">Newlane University ↗</a>
+        <a href="https://www.acenet.edu/National-Guide/" class="nav-link external" target="_blank" rel="noopener">ACE National Guide ↗</a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <img src="/assets/logo.png" alt="" class="sidebar-watermark">
+      </div>
+    </aside>
+
+    <!-- ===== MAIN ===== -->
+    <div class="main-wrap">
+      <header class="top-bar">
+        <button class="menu-btn" id="menu-btn" aria-label="Toggle navigation">
+          <span></span><span></span><span></span>
+        </button>
+        <a href="/" class="top-bar-title">BITC University</a>
+        <button class="theme-btn" id="theme-btn" aria-label="Toggle colour theme">
+          <span class="icon-dark" aria-hidden="true">☀︎</span>
+          <span class="icon-light" aria-hidden="true">☽</span>
+        </button>
+      </header>
+
+      <main class="page-content" id="main-content">
+        {{ content | safe }}
+      </main>
+    </div>
+
+  </div>
+
+  <script>
+    // Theme toggle
+    document.getElementById('theme-btn').addEventListener('click', function() {
+      var html = document.documentElement;
+      var next = (html.getAttribute('data-theme') || 'dark') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('bitc-theme', next);
+    });
+
+    // Mobile sidebar
+    var sidebar  = document.getElementById('sidebar');
+    var overlay  = document.getElementById('sidebar-overlay');
+    var menuBtn  = document.getElementById('menu-btn');
+    function closeSidebar() {
+      sidebar.classList.remove('open');
+      overlay.classList.remove('visible');
+    }
+    menuBtn.addEventListener('click', function() {
+      var open = sidebar.classList.toggle('open');
+      overlay.classList.toggle('visible', open);
+    });
+    overlay.addEventListener('click', closeSidebar);
+    // Close sidebar on nav-link click (mobile)
+    sidebar.querySelectorAll('.nav-link').forEach(function(a) {
+      a.addEventListener('click', closeSidebar);
+    });
+  </script>
+
+</body>
+</html>
