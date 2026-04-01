@@ -6,7 +6,7 @@ nav_order: 28
 ---
 
 <div align="center">
-  <img src="/assets/healthtech.jpg" alt="Healthcare Technology Professional Logo" width="800">
+  <img src="/assets/healthtech.jpg" alt="Healthcare Technology Professional Logo">
 </div>
 
 # Track: Healthcare Technology Professional

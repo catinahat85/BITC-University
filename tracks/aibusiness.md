@@ -6,7 +6,7 @@ nav_order: 19
 ---
 
 <div align="center">
-  <img src="/assets/aibusiness.jpg" alt="AI Business Transformation Leader Logo" width="800">
+  <img src="/assets/aibusiness.jpg" alt="AI Business Transformation Leader Logo">
 </div>
 
 # Track: AI Business Transformation Leader

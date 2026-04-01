@@ -6,7 +6,7 @@ nav_order: 21
 ---
 
 <div align="center">
-  <img src="/assets/techsales.jpg" alt="Tech Sales Leader Logo" width="800">
+  <img src="/assets/techsales.jpg" alt="Tech Sales Leader Logo">
 </div>
 
 # Track: Tech Sales Leader (T-Shaped)

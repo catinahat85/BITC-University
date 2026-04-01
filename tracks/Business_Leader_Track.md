@@ -6,7 +6,7 @@ nav_order: 15
 ---
 
 <div align="center">
-  <img src="/assets/business.jpg" alt="Business Leader Logo" width="800">
+  <img src="/assets/business.jpg" alt="Business Leader Logo">
 </div>
 
 

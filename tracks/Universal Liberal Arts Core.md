@@ -6,7 +6,7 @@ permalink: /tracks/liberal-arts-core/
 ---
 
 <div align="center">
-  <img src="/assets/LAC.png" alt="Liberal Arts Core" width="800">
+  <img src="/assets/LAC.png" alt="Liberal Arts Core">
 </div>
 
 ## The Universal Liberal Arts Core (15 Credits)
