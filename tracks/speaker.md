@@ -6,7 +6,7 @@ nav_order: 26
 ---
 
 <div align="center">
-  <img src="../assets/speaker.jpg" alt="Personal Brand & Public Speaking Logo" width="800">
+  <img src="/assets/speaker.jpg" alt="Personal Brand & Public Speaking Logo" width="800">
 </div>
 
 # Track: Personal Brand & Public Speaking

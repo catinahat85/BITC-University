@@ -6,7 +6,7 @@ nav_order: 17
 ---
 
 <div align="center">
-  <img src="../assets/opensource.jpg" alt="Open Source Professional Logo" width="800">
+  <img src="/assets/opensource.jpg" alt="Open Source Professional Logo" width="800">
 </div>
 
 # Track: Open Source Professional

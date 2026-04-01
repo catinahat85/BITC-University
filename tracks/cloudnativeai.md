@@ -6,7 +6,7 @@ nav_order: 18
 ---
 
 <div align="center">
-  <img src="../assets/cloudnativeai.jpg" alt="Cloud Native AI Practitioner Logo" width="800">
+  <img src="/assets/cloudnativeai.jpg" alt="Cloud Native AI Practitioner Logo" width="800">
 </div>
 
 # Track: Cloud Native AI Practitioner

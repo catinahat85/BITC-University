@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 <div align="center">
-  <img src="../assets/cybersecurity (1).png" alt="Cybersecurity Track Logo" width="800">
+  <img src="/assets/cybersecurity (1).png" alt="Cybersecurity Track Logo" width="800">
 </div>
 
 # Track: Cybersecurity

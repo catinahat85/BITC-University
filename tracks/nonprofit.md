@@ -6,7 +6,7 @@ nav_order: 16
 ---
 
 <div align="center">
-  <img src="../assets/nonprofit.jpg" alt="Nonprofit Management Logo" width="800">
+  <img src="/assets/nonprofit.jpg" alt="Nonprofit Management Logo" width="800">
 </div>
 
 # Track: Nonprofit Management

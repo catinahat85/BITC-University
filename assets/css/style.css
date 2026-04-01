@@ -512,6 +512,13 @@ html[data-theme="light"] .page-content th {
 }
 .sidebar-overlay.visible { display: block; }
 
+/* ===== TABLE OVERFLOW (all screen sizes) ===== */
+.page-content table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 900px) {
   .sidebar {
@@ -526,6 +533,16 @@ html[data-theme="light"] .page-content th {
   .menu-btn { display: flex; }
   .top-bar-title { display: block; }
   .page-content { padding: 1.5rem 1rem 3rem; }
+
+  /* Force images to fit on small screens */
+  .page-content img { width: 100% !important; height: auto !important; }
+
+  /* Tighten partner logos on mobile */
+  .partner-logos { gap: 1rem; }
+  .partner-logos img { height: 24px; }
+
+  /* Prevent any element from causing horizontal scroll */
+  .page-content { overflow-x: hidden; }
 }
 
 @media (prefers-reduced-motion: reduce) {
