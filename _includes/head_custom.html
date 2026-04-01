@@ -1,0 +1,49 @@
+<!-- BITC University: Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+
+<!-- BITC University: Design tokens + anti-flash theme init -->
+<style>
+  :root {
+    --bitc-cyan:        #00d4ff;
+    --bitc-violet:      #7c3aed;
+    --bitc-magenta:     #f0abfc;
+    --bitc-glow-cyan:   rgba(0, 212, 255, 0.35);
+    --bitc-glow-sm:     0 0 12px rgba(0, 212, 255, 0.35);
+    --bitc-glow-md:     0 0 24px rgba(0, 212, 255, 0.35), 0 0 48px rgba(0, 212, 255, 0.15);
+    --bitc-anim-fast:   150ms;
+    --bitc-anim-base:   300ms;
+    --bitc-anim-slow:   600ms;
+    --bitc-ease:        cubic-bezier(0.4, 0, 0.2, 1);
+    --bitc-ease-out:    cubic-bezier(0, 0, 0.2, 1);
+  }
+</style>
+
+<!-- BITC University: Theme toggle (runs before paint to prevent flash) -->
+<script>
+  (function () {
+    var saved = localStorage.getItem('bitc-theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', saved);
+  })();
+</script>
+
+<!-- BITC University: Theme toggle button (injected after body parses) -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var btn = document.createElement('button');
+    btn.id = 'bitc-theme-toggle';
+    btn.setAttribute('aria-label', 'Toggle dark/light mode');
+    btn.innerHTML =
+      '<span class="bitc-icon-dark" aria-hidden="true">&#9728;&#xFE0E;</span>' +
+      '<span class="bitc-icon-light" aria-hidden="true">&#9790;&#xFE0E;</span>';
+    document.body.appendChild(btn);
+
+    btn.addEventListener('click', function () {
+      var current = document.documentElement.getAttribute('data-theme') || 'dark';
+      var next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('bitc-theme', next);
+    });
+  });
+</script>
