@@ -1,9 +1,12 @@
+<!-- BITC University: Custom stylesheet -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 <!-- BITC University: Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
 
-<!-- BITC University: Design tokens + anti-flash theme init -->
+<!-- BITC University: Design tokens -->
 <style>
   :root {
     --bitc-cyan:        #00d4ff;
@@ -20,7 +23,7 @@
   }
 </style>
 
-<!-- BITC University: Theme toggle (runs before paint to prevent flash) -->
+<!-- BITC University: Anti-flash theme init (runs before paint) -->
 <script>
   (function () {
     var saved = localStorage.getItem('bitc-theme') || 'dark';
@@ -28,7 +31,7 @@
   })();
 </script>
 
-<!-- BITC University: Theme toggle button (injected after body parses) -->
+<!-- BITC University: Theme toggle button -->
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var btn = document.createElement('button');
