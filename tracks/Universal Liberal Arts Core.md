@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Liberal Arts Core
-parent: Home
 nav_order: 2
+permalink: /tracks/liberal-arts-core/
 ---
 
 <div align="center">

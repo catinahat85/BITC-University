@@ -1,0 +1,8 @@
+node_modules/
+_site/
+README.md
+CONTRIBUTING.md
+LICENSE.md
+Gemfile
+Gemfile.lock
+assets/i.md
