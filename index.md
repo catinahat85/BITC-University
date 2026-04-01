@@ -6,7 +6,7 @@ nav_order: 1
 
 
 <div align="center">
-  <img src="/assets/logo.png" alt="BitC University Logo" width="850" style="max-width: 100%; height: auto;"/>
+  <img src="/assets/logo.png" alt="BitC University Logo" style="max-width: 100%; height: auto;"/>
   
   <h1>BitC University</h1>
   
@@ -55,7 +55,7 @@ nav_order: 1
 ---
 
 <div align="center">
-  <img src="https://newlane.edu/wp-content/uploads/2024/03/Logo-2.png" alt="Newlane University Logo" width="300">
+  <img src="https://newlane.edu/wp-content/uploads/2024/03/Logo-2.png" alt="Newlane University Logo">
 </div>
 
 ### Why Newlane University?

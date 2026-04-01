@@ -6,7 +6,7 @@ nav_order: 23
 ---
 
 <div align="center">
-  <img src="/assets/marketing.jpg" alt="Growth Marketing & Brand Logo" width="800">
+  <img src="/assets/marketing.jpg" alt="Growth Marketing & Brand Logo">
 </div>
 
 # Track: Growth Marketing & Brand

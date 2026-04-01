@@ -512,15 +512,25 @@ html[data-theme="light"] .page-content th {
 }
 .sidebar-overlay.visible { display: block; }
 
-/* ===== TABLE OVERFLOW (all screen sizes) ===== */
+/* ===== WIDE CONTENT: prevent horizontal overflow on all screens ===== */
+.page-content img {
+  max-width: 100%;
+  height: auto;
+}
+.page-content pre {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 .page-content table {
   display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  max-width: 100%;
 }
 
 /* ===== RESPONSIVE ===== */
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
+  /* Sidebar collapses on tablets too */
   .sidebar {
     transform: translateX(calc(-1 * var(--sidebar-w)));
     box-shadow: none;
@@ -532,17 +542,24 @@ html[data-theme="light"] .page-content th {
   .main-wrap { margin-left: 0; }
   .menu-btn { display: flex; }
   .top-bar-title { display: block; }
-  .page-content { padding: 1.5rem 1rem 3rem; }
+}
 
-  /* Force images to fit on small screens */
-  .page-content img { width: 100% !important; height: auto !important; }
+@media (max-width: 600px) {
+  .page-content { padding: 1.25rem 0.875rem 3rem; }
 
-  /* Tighten partner logos on mobile */
-  .partner-logos { gap: 1rem; }
-  .partner-logos img { height: 24px; }
+  /* Images fill the column */
+  .page-content img { width: 100%; height: auto; }
+
+  /* Tighten partner logos */
+  .partner-logos { gap: 0.75rem; }
+  .partner-logos img { height: 22px; }
 
   /* Prevent any element from causing horizontal scroll */
-  .page-content { overflow-x: hidden; }
+  .main-wrap { overflow-x: hidden; }
+
+  /* Smaller headings on phones */
+  .page-content h1 { font-size: 1.4rem; }
+  .page-content h2 { font-size: 1.15rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
