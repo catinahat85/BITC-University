@@ -6,7 +6,7 @@ nav_order: 27
 ---
 
 <div align="center">
-  <img src="/assets/aihealthcare.jpg" alt="AI Healthcare Specialist Logo">
+  <img src="/assets/aihealthcare.webp" alt="AI Healthcare Specialist Logo">
 </div>
 
 # Track: AI Healthcare Specialist
@@ -14,7 +14,7 @@ nav_order: 27
 | | |
 |---|---|
 | **Focus** | Healthcare AI, Clinical Informatics, Medical Data Analytics, AI Ethics in Healthcare |
-| **Est. Cost** | ~$1,100 |
+| **Est. Cost** | ~$1,770 |
 | **Time to Complete** | ~12-18 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -71,8 +71,8 @@ nav_order: 27
 | Professional Certs (Coursera) | 15 | ~$200 |
 | General Electives (Saylor) | 27 | $45 |
 | **Transfer Total** | **72** | **~$270** |
-| Newlane Residency | 48 | ~$1,200 |
-| **Degree Total** | **120** | **~$1,100-$1,470** |
+| Newlane Residency | 48 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,770** |
 
 ---
 

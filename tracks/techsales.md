@@ -6,7 +6,7 @@ nav_order: 21
 ---
 
 <div align="center">
-  <img src="/assets/techsales.jpg" alt="Tech Sales Leader Logo">
+  <img src="/assets/techsales.webp" alt="Tech Sales Leader Logo">
 </div>
 
 # Track: Tech Sales Leader (T-Shaped)
@@ -14,7 +14,7 @@ nav_order: 21
 | | |
 |---|---|
 | **Focus** | Enterprise Sales, Solutions Architecture, Technical Pre-Sales, Sales Engineering |
-| **Est. Cost** | ~$1,100 |
+| **Est. Cost** | ~$1,720 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts, Business Administration |
 
@@ -72,8 +72,8 @@ nav_order: 21
 | Professional Certs (Coursera) | 14 | ~$150 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **71** | **~$220** |
-| Newlane Residency | 49 | ~$1,225 |
-| **Degree Total** | **120** | **~$1,100-$1,450** |
+| Newlane Residency | 49 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,720** |
 
 ---
 

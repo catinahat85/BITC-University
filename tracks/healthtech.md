@@ -6,7 +6,7 @@ nav_order: 28
 ---
 
 <div align="center">
-  <img src="/assets/healthtech.jpg" alt="Healthcare Technology Professional Logo">
+  <img src="/assets/healthtech.webp" alt="Healthcare Technology Professional Logo">
 </div>
 
 # Track: Healthcare Technology Professional
@@ -14,7 +14,7 @@ nav_order: 28
 | | |
 |---|---|
 | **Focus** | Health IT, EHR Systems, Clinical Informatics, Healthcare Cybersecurity, Pharma Tech |
-| **Est. Cost** | ~$1,000 |
+| **Est. Cost** | ~$1,720 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -70,8 +70,8 @@ nav_order: 28
 | Professional Certs (Coursera) | 15 | ~$150 |
 | General Electives (Saylor) | 27 | $45 |
 | **Transfer Total** | **72** | **~$220** |
-| Newlane Residency | 48 | ~$1,200 |
-| **Degree Total** | **120** | **~$1,000-$1,420** |
+| Newlane Residency | 48 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,720** |
 
 ---
 

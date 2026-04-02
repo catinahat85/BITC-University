@@ -6,7 +6,7 @@ nav_order: 1
 
 
 <div align="center">
-  <img src="/assets/logo.png" alt="BitC University Logo" style="max-width: 100%; height: auto;"/>
+  <img src="/assets/logo.webp" alt="BitC University Logo" style="max-width: 100%; height: auto;"/>
   
   <h1>BitC University</h1>
   

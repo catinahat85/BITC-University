@@ -6,7 +6,7 @@ nav_order: 22
 ---
 
 <div align="center">
-  <img src="/assets/vibecoder.jpg" alt="Ethical Vibe Coder & Debugger Logo">
+  <img src="/assets/vibecoder.webp" alt="Ethical Vibe Coder & Debugger Logo">
 </div>
 
 # Track: Ethical Vibe Coder & Debugger
@@ -14,7 +14,7 @@ nav_order: 22
 | | |
 |---|---|
 | **Focus** | AI-Assisted Development, Prompt Engineering, Code Review, Ethical AI Use |
-| **Est. Cost** | ~$900 |
+| **Est. Cost** | ~$1,775 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -71,8 +71,8 @@ nav_order: 22
 | Professional Certs (Coursera) | 12 | ~$200 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **72** | **~$275** |
-| Newlane Residency | 48 | ~$1,200 |
-| **Degree Total** | **120** | **~$900-$1,200** |
+| Newlane Residency | 48 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,775** |
 
 ---
 

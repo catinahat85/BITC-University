@@ -15,7 +15,7 @@ nav_order: 15
 | | |
 |---|---|
 | **Focus** | Entrepreneurship, Business Development, Sales, Management |
-| **Est. Cost** | ~$1,100 |
+| **Est. Cost** | ~$1,725 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts, Business Administration |
 
@@ -74,8 +74,8 @@ nav_order: 15
 | Professional Certs (Coursera) | 15 | ~$150 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **90** | **~$225** |
-| Newlane Residency | 30 | ~$750 |
-| **Degree Total** | **120** | **~$975-$1,100** |
+| Newlane Residency | 30 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,725** |
 
 ---
 

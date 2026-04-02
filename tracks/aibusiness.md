@@ -6,7 +6,7 @@ nav_order: 19
 ---
 
 <div align="center">
-  <img src="/assets/aibusiness.jpg" alt="AI Business Transformation Leader Logo">
+  <img src="/assets/aibusiness.webp" alt="AI Business Transformation Leader Logo">
 </div>
 
 # Track: AI Business Transformation Leader
@@ -14,7 +14,7 @@ nav_order: 19
 | | |
 |---|---|
 | **Focus** | AI Strategy, Digital Transformation, Change Management, Business Analytics |
-| **Est. Cost** | ~$1,100 |
+| **Est. Cost** | ~$1,775 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts, Business Administration |
 
@@ -72,8 +72,8 @@ nav_order: 19
 | Professional Certs (Coursera) | 12 | ~$200 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **87** | **~$275** |
-| Newlane Residency | 33 | ~$825 |
-| **Degree Total** | **120** | **~$1,100** |
+| Newlane Residency | 33 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,775** |
 
 ---
 

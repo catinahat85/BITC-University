@@ -6,7 +6,7 @@ nav_order: 20
 ---
 
 <div align="center">
-  <img src="/assets/devrel.jpg" alt="Developer Ecosystem & Community Logo">
+  <img src="/assets/devrel.webp" alt="Developer Ecosystem & Community Logo">
 </div>
 
 # Track: Developer Ecosystem & Community
@@ -14,7 +14,7 @@ nav_order: 20
 | | |
 |---|---|
 | **Focus** | Developer Advocacy, OSS Community Management, Tech Partnerships, Technical Evangelism |
-| **Est. Cost** | ~$1,000 |
+| **Est. Cost** | ~$1,725 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -71,8 +71,8 @@ nav_order: 20
 | Professional Certs (Coursera) | 15 | ~$150 |
 | General Electives (Saylor) | 27 | $45 |
 | **Transfer Total** | **75** | **~$225** |
-| Newlane Residency | 45 | ~$1,125 |
-| **Degree Total** | **120** | **~$1,000-$1,350** |
+| Newlane Residency | 45 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,725** |
 
 ---
 
