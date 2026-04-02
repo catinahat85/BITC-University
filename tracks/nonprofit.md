@@ -6,7 +6,7 @@ nav_order: 16
 ---
 
 <div align="center">
-  <img src="/assets/nonprofit.jpg" alt="Nonprofit Management Logo">
+  <img src="/assets/nonprofit.webp" alt="Nonprofit Management Logo">
 </div>
 
 # Track: Nonprofit Management
@@ -14,7 +14,7 @@ nav_order: 16
 | | |
 |---|---|
 | **Focus** | Nonprofit Leadership, Fundraising, Grant Writing, Program Management |
-| **Est. Cost** | ~$1,000 |
+| **Est. Cost** | ~$1,925 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -72,8 +72,8 @@ nav_order: 16
 | Professional Certs (Coursera + Nonprofit.Courses) | 12 | ~$350 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **87** | **~$425** |
-| Newlane Residency | 33 | ~$825 |
-| **Degree Total** | **120** | **~$1,000-$1,250** |
+| Newlane Residency | 33 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,925** |
 
 ---
 

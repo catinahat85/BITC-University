@@ -6,7 +6,7 @@ nav_order: 23
 ---
 
 <div align="center">
-  <img src="/assets/marketing.jpg" alt="Growth Marketing & Brand Logo">
+  <img src="/assets/marketing.webp" alt="Growth Marketing & Brand Logo">
 </div>
 
 # Track: Growth Marketing & Brand
@@ -14,7 +14,7 @@ nav_order: 23
 | | |
 |---|---|
 | **Focus** | Digital Marketing, Brand Strategy, Analytics, Content Marketing, Demand Gen |
-| **Est. Cost** | ~$1,000 |
+| **Est. Cost** | ~$1,725 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts, Business Administration |
 
@@ -72,8 +72,8 @@ nav_order: 23
 | Professional Certs (Coursera + HubSpot) | 18 | ~$150 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **78** | **~$225** |
-| Newlane Residency | 42 | ~$1,050 |
-| **Degree Total** | **120** | **~$1,000-$1,275** |
+| Newlane Residency | 42 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,725** |
 
 ---
 

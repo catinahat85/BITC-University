@@ -6,7 +6,7 @@ nav_order: 17
 ---
 
 <div align="center">
-  <img src="/assets/opensource.jpg" alt="Open Source Professional Logo">
+  <img src="/assets/opensource.webp" alt="Open Source Professional Logo">
 </div>
 
 # Track: Open Source Professional
@@ -14,7 +14,7 @@ nav_order: 17
 | | |
 |---|---|
 | **Focus** | Linux Administration, Open Source Development, Community Management |
-| **Est. Cost** | ~$800 |
+| **Est. Cost** | ~$1,725 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -72,8 +72,8 @@ nav_order: 17
 | Professional Certs (Coursera) | 15 | ~$150 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **90** | **~$225** |
-| Newlane Residency | 30 | ~$750 |
-| **Degree Total** | **120** | **~$800-$1,000** |
+| Newlane Residency | 30 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,725** |
 
 ---
 

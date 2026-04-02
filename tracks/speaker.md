@@ -6,7 +6,7 @@ nav_order: 26
 ---
 
 <div align="center">
-  <img src="/assets/speaker.jpg" alt="Personal Brand & Public Speaking Logo">
+  <img src="/assets/speaker.webp" alt="Personal Brand & Public Speaking Logo">
 </div>
 
 # Track: Personal Brand & Public Speaking
@@ -14,7 +14,7 @@ nav_order: 26
 | | |
 |---|---|
 | **Focus** | Public Speaking, Content Creation, Personal Branding, Thought Leadership |
-| **Est. Cost** | ~$900 |
+| **Est. Cost** | ~$1,730 |
 | **Time to Complete** | ~9-12 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -71,8 +71,8 @@ nav_order: 26
 | Professional Certs (Coursera) | 9 | ~$150 |
 | General Electives (Saylor) | 30 | $50 |
 | **Transfer Total** | **72** | **~$230** |
-| Newlane Residency | 48 | ~$1,200 |
-| **Degree Total** | **120** | **~$900-$1,200** |
+| Newlane Residency | 48 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,730** |
 
 ---
 

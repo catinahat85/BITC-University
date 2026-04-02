@@ -6,7 +6,7 @@ nav_order: 18
 ---
 
 <div align="center">
-  <img src="/assets/cloudnativeai.jpg" alt="Cloud Native AI Practitioner Logo">
+  <img src="/assets/cloudnativeai.webp" alt="Cloud Native AI Practitioner Logo">
 </div>
 
 # Track: Cloud Native AI Practitioner
@@ -14,7 +14,7 @@ nav_order: 18
 | | |
 |---|---|
 | **Focus** | Kubernetes, Cloud Infrastructure, AI/ML Deployment, MLOps |
-| **Est. Cost** | ~$1,200 |
+| **Est. Cost** | ~$1,810 |
 | **Time to Complete** | ~12-18 Months |
 | **Target Degree** | B.A. in Liberal Arts |
 
@@ -69,8 +69,8 @@ nav_order: 18
 | AI Engineering (Coursera) | 18 | ~$245 |
 | General Electives (Saylor) | 27 | $45 |
 | **Transfer Total** | **72** | **~$310** |
-| Newlane Residency | 48 | ~$1,200 |
-| **Degree Total** | **120** | **~$1,200-$1,500** |
+| Newlane Residency | 48 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,810** |
 
 ---
 
