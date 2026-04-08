@@ -47,6 +47,20 @@ nav_order: 9
 
 ---
 
+## Credit Summary
+
+| Category | Credits | Cost |
+|----------|---------|------|
+| Meta Front-End Developer (Coursera) | 10 | ~$98 |
+| IBM Full Stack Developer (Coursera) | 18 | ~$147 |
+| Saylor Courses | 12 | $20 |
+| Modern States (CLEP) | 6 | $0 |
+| **Transfer Total** | **46** | **~$265** |
+| Newlane Residency | 74 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,765** |
+
+---
+
 # Capstone Certifications by Track
 
 > **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.

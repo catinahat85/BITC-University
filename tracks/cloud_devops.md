@@ -47,6 +47,20 @@ nav_order: 4
 
 ---
 
+## Credit Summary
+
+| Category | Credits | Cost |
+|----------|---------|------|
+| IBM Cloud Certs (Coursera) | 36 | ~$98 |
+| Azure Administrator Exam | 3 | $165 |
+| Google Cloud Engineering (Coursera) | 6 | ~$49 |
+| Saylor Courses | 9 | $15 |
+| **Transfer Total** | **54** | **~$337** |
+| Newlane Residency | 66 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,840** |
+
+---
+
 # Capstone Certification
 
 > **Note:** Capstone certifications are generally **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.
