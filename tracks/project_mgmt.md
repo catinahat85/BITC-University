@@ -50,6 +50,19 @@ nav_order: 8
 
 ---
 
+## Credit Summary
+
+| Category | Credits | Cost |
+|----------|---------|------|
+| Google PM & Product Mgmt (Coursera) | 16 | ~$147 |
+| Saylor Courses | 21 | $35 |
+| Modern States (CLEP) | 9 | $0 |
+| **Transfer Total** | **46** | **~$192** |
+| Newlane Residency | 74 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,695** |
+
+---
+
 # Capstone Certification
 
 > **Note:** Capstone certifications are **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.

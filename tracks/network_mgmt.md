@@ -50,6 +50,20 @@ nav_order: 7
 
 ---
 
+## Credit Summary
+
+| Category | Credits | Cost |
+|----------|---------|------|
+| Cisco CCNA (Exam) | 3 | $300 |
+| Google IT Support (Coursera) | 15 | ~$49 |
+| Saylor Courses | 18 | $30 |
+| Modern States (CLEP) | 9 | $0 |
+| **Transfer Total** | **45** | **~$379** |
+| Newlane Residency | 75 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,880** |
+
+---
+
 # Capstone Certification
 
 > **Note:** Capstone certifications are **not generally ACE credit eligible** and do not transfer as college credit. However they are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust.

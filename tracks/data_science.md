@@ -50,6 +50,20 @@ nav_order: 6
 
 ---
 
+## Credit Summary
+
+| Category | Credits | Cost |
+|----------|---------|------|
+| Azure Data Fundamentals (Exam) | 3 | $99 |
+| Google Data Analytics (Coursera) | 12 | ~$147 |
+| Saylor Courses | 12 | $20 |
+| Modern States (CLEP) | 18 | $0 |
+| **Transfer Total** | **45** | **~$261** |
+| Newlane Residency | 75 | ~$1,500 |
+| **Degree Total** | **120** | **~$1,760** |
+
+---
+
 # Capstone Certification
 
 > **Note:** Capstone certifications are generally **not ACE credit eligible** and do not transfer as college credit. They are included as career-focused credentials that **build your "Shield"**—backing up your academic credentials with industry-recognized proof of technical competence that employers trust. However the following is.
